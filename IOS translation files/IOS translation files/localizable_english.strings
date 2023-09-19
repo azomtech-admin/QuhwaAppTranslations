@@ -1569,7 +1569,6 @@
 "NightVisionTips1" = "1- Turn on night vision automatically when luminous intensity is weak";
 "NightVisionTips2" = "2- Disable night vision";
 "NightVisionTips3" = "3- Always enable night vision, the image is in black and white";
-"AutoNightVision" = "Auto night vision";
 "LocalStorage" = "Local storage";
 "DownloadLocalVideoFile" = "Download local video files";
 "FormatCard" = "Format storage card";
