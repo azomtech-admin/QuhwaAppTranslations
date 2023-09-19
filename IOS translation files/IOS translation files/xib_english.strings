@@ -1508,7 +1508,7 @@
 "fZw-dA-QSf.normalTitle" = "Sync status of light control devices";
 
 /* Class = "UILabel"; text = "4、添加过程中保持连接设备热点"; ObjectID = "H2t-8Q-YO8"; */
-"H2t-8Q-YO8.text" = "4- Keep the mobile phone connected to the device's WiFi in the process of adding the device.";
+"H2t-8Q-YO8.text" = "4- Keep the mobile connected to the device's WiFi in the process of adding the device.";
 
 /* Class = "UILabel"; text = "3、选择“IPCXXX”设备热点，默认密码：11111111"; ObjectID = "c2u-Wq-KA1"; */
 "c2u-Wq-KA1.text" = "3- Select device WiFi 'IPCXX' and default password: 11111111";
@@ -1547,7 +1547,7 @@
 "bj5-xm-Kmn.text" = "Connecting...";
 
 /* Class = "UILabel"; text = "1、路由器、手机、摄像机尽量靠近； "; ObjectID = "ga6-0I-KJW"; */
-"ga6-0I-KJW.text" = "1- keep Router, mobile phone, and camera close as possible.";
+"ga6-0I-KJW.text" = "1- keep Router, mobile, and camera close as possible.";
 
 /* Class = "UILabel"; text = "%"; ObjectID = "tde-1b-RQj"; */
 "tde-1b-RQj.text" = "%";

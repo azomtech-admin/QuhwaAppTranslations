@@ -1130,7 +1130,7 @@
 "AllDayGuardCannotTurnOff" = "لا يمكن إيقاف تشغيل الحراسة طوال اليوم";
 "PleaseEnterSecurityName" = "اسم الأمان";
 "TurnOnCountDown" = "تشغيل العد التنازلي";
-"EffectiveImmediately" = "فعال في نفس الوقت";
+"EffectiveImmediately" = "تفعيل مباشرة";
 "CountDown%dSecond" = "العد التنازلي %d ثانية";
 "TheModeCannotEditName" = "لا يمكن تحرير الاسم في هذا الوضع";
 "PleaseSetSecurityModeName" = "الرجاء تعيين اسم وضع الأمان";

@@ -873,8 +873,8 @@
 "ExecuteOnce" = "Execute once";
 "ExecuteOnceAISmartClose" = "Smart home will automatically turn off after one execution";
 "JudgmentCondition" = "Priority condition";
-"SetEffectiveTime" = "Set executed period";
-"EffectiveTime" = "Effective period";
+"SetEffectiveTime" = "Set execution period";
+"EffectiveTime" = "Execution period";
 "AllDays" = "The whole day";
 ///房间
 "Room0" = "Parlour";
@@ -945,7 +945,7 @@
 "%dMin" = "%d Min";
 "%@sec" = "%@ sec";
 "PleaseSetSceneName" = "Please set scene name";
-"UpdataSceneName" = "Modify scene name";
+"UpdataSceneName" = "Scene name";
 "PleaseSaveScene" = "Please save the scene firstly";
 "Delay" = "Delay";
 "SceneNotExisit" = "Scene does not exist";
@@ -953,7 +953,7 @@
 "DeleteAlisa" = "Delete alisa";
 "AliasAlreadyExisit" = "The alisa already exists";
 "Implemented" = "Executed";
-"NewAddScenes" = "Create a new scene";
+"NewAddScenes" = "Create scene";
 "Name" = "Name";
 "SetScenesName" = "Set scene name";
 "IconManager" = "Icon management";
@@ -971,7 +971,7 @@
 "AllConditionsMet" = "When all conditions are met";
 "CycleManyTimesEveryDay" = "Cycle many times everyday";
 "Interval%dMin" = "Interval %d Min";
-"CustomTiming" = "Customized";
+"CustomTiming" = "Custom";
 "Execute" = "Execute";
 "PleaseSetAISmartName" = "Please set schedule name";
 "UpdataAISmartName" = "Modify schedule name";
@@ -1090,9 +1090,9 @@
 ///判断条件列表
 "JudgingConditionsList" = "List of conditions";
 "TimingSelect" = "Schedule Settings";
-"AlreadyAnEffectiveTimeCannotAdd" = "Cannot add more since there is already a effective period";
+"AlreadyAnEffectiveTimeCannotAdd" = "Cannot add more, since there is already a execution period";
 "RepeatOption" = "Please Select";
-"Custom" = "Customized";
+"Custom" = "Custom";
 "TheDevHasBeenLinkageTriggerSourceCannotSelect" = "The device which has already been a linkage trigger source cannot be selected";
 ///推送通知
 "TextBroadcast" = "Text broadcast";
@@ -1101,11 +1101,11 @@
 "DefaultNotif" = "Default notification";
 "PleaseNoMore20" = "Add 20 characters fields";
 ///Wi-Fi配置
-"MobileHasBeenConnectedDevWifi:%@" = "Mobile phone has been connected to device WiFi:%@";
-"PleaseMobileConnectDevWifiBackThePage" = "After mobile phone is connected to device WiFi, please return to this interface";
+"MobileHasBeenConnectedDevWifi:%@" = "Mobile has been connected to device WiFi:%@";
+"PleaseMobileConnectDevWifiBackThePage" = "After mobile is connected to device WiFi, please return to this interface";
 "PwdErrorWaitSetPwd" = "Password error, wait to set password";
 "MatchNetworkfail:%@" = "Network failed to be connected:%@";
-"MobileUnConectDevHotspot" = "Mobile phone is not connected to device WiFi";
+"MobileUnConectDevHotspot" = "Mobile is not connected to device WiFi";
 "DevAlreadyHasBeenAdd" = "Device already has been added";
 "SubGwHasBeenAdd" = "Sub gateway has been added";
 "MainGwHasBeenBound" = "Main gateway has been bound";
@@ -1130,7 +1130,7 @@
 "AllDayGuardCannotTurnOff" = "The all-day guard cannot be turned off";
 "PleaseEnterSecurityName" = "Security name";
 "TurnOnCountDown" = "Turn on count down";
-"EffectiveImmediately" = "Effective at once";
+"EffectiveImmediately" = "Effective immediately";
 "CountDown%dSecond" = "Count down %d Second";
 "TheModeCannotEditName" = "The name can't be edited in this mode";
 "PleaseSetSecurityModeName" = "Please set security mode name";
@@ -1163,7 +1163,7 @@
 "AppDownloadQRCode" = "App download QR code";
 "NoteNick(NoMore20)" = "Comment nickname (no more than 20 characters)";
 "NameNoMore20" = "Name cannot exceed 20 characters";
-"PleaseMobileSystemUpgradeToIOS12" = "Please update mobile phone system to iOS12 or more";
+"PleaseMobileSystemUpgradeToIOS12" = "Please update mobile system to iOS12 or more";
 "SmartLog" = "Smart logs";
 "SetTheme" = "Change Theme";
 "PleaseSelectThemeUseLocation" = "Select theme location";

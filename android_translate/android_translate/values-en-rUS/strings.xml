@@ -205,9 +205,9 @@
     <string name="scene_no_action">No scene action added</string>
     <string name="scene_dialog_title">Scene name</string>
     <string name="scene_dialog_title_sub">Please set scene name</string>
-    <string name="scene_dialog_title_update">Modify scene name</string>
-    <string name="scene_create">Create a new scene</string>
-    <string name="scene_edit">Edit the scene</string>
+    <string name="scene_dialog_title_update">Scene name</string>
+    <string name="scene_create">Create scene</string>
+    <string name="scene_edit">Edit scene</string>
     <string name="scene_security_switch">Switch to</string>
     <string name="delayed">Delay</string>
     <string name="delayed_second">Delay %s s</string>
@@ -217,8 +217,8 @@
     <string name="judge_count">Condition(%d)</string>
     <string name="condition_list">List of conditions</string>
     <string name="related_meet_one_condition">When 1 condition is met</string>
-    <string name="related_meet_all_condition">When all Conditions are met</string>
-    <string name="time_trigger">Effective Period</string>
+    <string name="related_meet_all_condition">When all conditions are met</string>
+    <string name="time_trigger">Execution Period</string>
     <string name="time_daily">Every day</string>
     <string name="time_sunday">Sunday</string>
     <string name="time_monday">Monday</string>
@@ -230,7 +230,7 @@
     <string name="time_hour">The whole day</string>
     <string name="condition_time">Trigger period</string>
     <string name="condition_count">Conditions cannot be more than 6</string>
-    <string name="condition_time_one">Cannot add more since there is already a effective period</string>
+    <string name="condition_time_one">Cannot add more since there is already a execution period</string>
     <string name="disturb_mode">Do not disturb mode</string>
     <string name="memory">Memory function</string>
     <string name="timing">Timer</string>
@@ -244,7 +244,7 @@
     <string name="delete_action">Delete action</string>
     <string name="scene_add_action_title">Add scene action</string>
     <string name="can_not_edit">Not editable</string>
-    <string name="action_send_msg_mobile">Send notification to mobile phone</string>
+    <string name="action_send_msg_mobile">Send notification to mobile</string>
     <string name="set_delay">Set delay time</string>
     <string name="set_delay_seconds">%ds</string>
     <string name="set_delay_minute">%dm</string>
@@ -296,10 +296,10 @@
 
     <!-- ========================================家庭管理 start========================================================-->
     <string name="home_manager">Manage Home</string>
-    <string name="home_create">Create a new home</string>
+    <string name="home_create">Create Home</string>
     <string name="home_edit">Edit Home</string>
     <string name="home_edit_dialog_title">Set home name</string>
-    <string name="home_edit_dialog_content">Edit the home name</string>
+    <string name="home_edit_dialog_content">Edit home name</string>
     <string name="home_delete">Delete home</string>
     <string name="home_delete_dialog_content">Are you sure you want to delete %s?</string>
     <string name="home_name">Home Name</string>
@@ -310,7 +310,7 @@
     <string name="home_main_gateway_log">Primary gateway log</string>
     <string name="home_main_gateway_offline">Primary gateway offline notification</string>
     <string name="home_device_count">Total devices</string>
-    <string name="home_have_delete">The home has been deleted</string>
+    <string name="home_have_delete">Home has been deleted</string>
     <string name="home_not_bind_gateway">Unbound</string>
     <string name="home_delete_fail">Can't delete the only home</string>
     <string name="home_input_name">Enter home name</string>
@@ -396,7 +396,7 @@
     <string name="room_custom">+customized</string>
     <string name="room_default">Default room</string>
     <string name="room_custom_dialog_title">Customize the room name</string>
-    <string name="room_custom_dialog_content">Create a new room name</string>
+    <string name="room_custom_dialog_content">Set room name</string>
     <string name="edit_room">Edit room</string>
     <string name="edit_room_dialog">Rename the room</string>
     <string name="delete_room">Delete room</string>
@@ -1124,7 +1124,7 @@
     <string name="monitor_config">Start to configure the network</string>
     <string name="config_connecting">connecting…</string>
     <string name="config_connecting_tip">In process of connecting, \nplease don\'t disconnect network!</string>
-    <string name="config_connecting_tip2">1、keep Router, mobile phone, camera close as possible.</string>
+    <string name="config_connecting_tip2">1、keep Router, mobile, camera close as possible.</string>
     <string name="config_connecting_tip3">2、Don\'t disconnect the network, it will take 1&#8211;2 minutes.</string>
     <string name="add_device_list">Add to device list</string>
     <string name="monitor_config_result">Network configuration results</string>
@@ -1133,9 +1133,9 @@
     <string name="monitor_config_fail">Failed</string>
     <string name="last_step">Previous</string>
     <string name="monitor_step_one">1、After power on the device, please long press Reset button if blue LED is not flashing. Wait for a moment after hear a \'Ding\' sound, and the device will navigate a cruise then reset process is complete.</string>
-    <string name="monitor_step_twe">2、Open Settings then select WLAN, connect the mobile phone wireless network to the device hotspot</string>
+    <string name="monitor_step_twe">2、Open Settings then select WLAN, connect the mobile wireless network to the device hotspot</string>
     <string name="monitor_step_three">3、Select device WiFi \'IPCXX\' and default password:</string>
-    <string name="monitor_step_four">4、Keep the mobile phone is connected to device WiFi in process of adding the device</string>
+    <string name="monitor_step_four">4、Keep the mobile is connected to device WiFi in process of adding the device</string>
     <string name="monitor_step_five">5、After it\'s connected, return to APP</string>
     <string name="monitor_light_flash">Go to setting</string>
     <string name="monitor_network_config">configure network</string>

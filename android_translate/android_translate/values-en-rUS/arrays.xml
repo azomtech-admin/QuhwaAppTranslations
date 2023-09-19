@@ -74,7 +74,7 @@
 
     <array name="strs_auto_timing_types">
         <item>Loop execution multiple times</item>
-        <item>Customized</item>
+        <item>Custom</item>
     </array>
 
     <array name="strs_interval">

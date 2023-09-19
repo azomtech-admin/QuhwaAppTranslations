@@ -1097,8 +1097,8 @@
     <!-- ******************************* 离线语音 end *****************************************-->
 
     <!-- ******************************* 监控 start *****************************************-->
-    <string name="monitor">الشاشات</string>
-    <string name="device_add">إضافة شاشة</string>
+    <string name="monitor">شاشات المراقبة</string>
+    <string name="device_add">إضافة شاشة مراقبة</string>
     <string name="monitor_nvr">إضافة طرق NVR:</string>
     <string name="monitor_ptz">إضافة طريقة لكاميرا PTZ:</string>
     <string name="monitor_wifi">توصيل نقطة اتصال الجهاز</string>
