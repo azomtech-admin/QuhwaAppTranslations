@@ -1601,3 +1601,5 @@
 //温湿度传感器
 "TemperatureCurve" = "Temperature curve";
 "HumidityCurve" = "Humidity curve";
+//空调伴侣电视匹配
+"PAIR-TV" = "PAIR-TV";
