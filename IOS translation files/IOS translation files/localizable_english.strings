@@ -1543,7 +1543,6 @@
 "NightDetectionOnly" = "Nighttime";
 "CustomTimePeriods" = "Custom period";
 "BaseSet" = "Basic settings";
-"ZoomAndFocusButtons" = "Zoom and focus buttons";
 "PTZSpeed" = "PTZ speed";
 "CruiseMode" = "Cruise mode";
 "ZoomAndFocusButtons?" = "Zoom and focus buttons?";

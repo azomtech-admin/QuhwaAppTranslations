@@ -1543,7 +1543,6 @@
 "NightDetectionOnly" = "ليلاً";
 "CustomTimePeriods" = "فترة مخصصة";
 "BaseSet" = "الإعدادات الأساسية";
-"ZoomAndFocusButtons" = "أزرار التكبير والتركيز";
 "PTZSpeed" = "سرعة حركة الكاميرا";
 "CruiseMode" = "وضع التجول";
 "ZoomAndFocusButtons?" = "أزرار التكبير والتركيز؟";
