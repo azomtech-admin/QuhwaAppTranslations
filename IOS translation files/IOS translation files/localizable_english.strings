@@ -783,10 +783,10 @@
 "OldManRoom" = "Elder's room";
 "NannyRoom" = "Nanny room";
 ///TV
-"TVOpenSpecifiedCustomKey" = "Turn on the TV at customized scene";
+"TVOpenSpecifiedCustomKey" = "Turn on the TV at custom scene";
 "TheKeyNoLearnPleaseLearn" = "This key has not been learned, please learn first";
-"UpdataCustomKeyName" = "Modify customized key name";
-"CustomKey" = "Customized key";
+"UpdataCustomKeyName" = "Modify custom key name";
+"CustomKey" = "Custom key";
 "CustomKey%d" = "Custom key%d";
 "ProgramTable" = "Program table";
 "EnterChannelNumError" = "The channel number entered does not meet the requirements";
@@ -901,7 +901,7 @@
 "Room21" = "Nanny room";
 "Room22" = "Washroom";
 "Room23" = "Baby's room";
-"Room24" = "+customized";
+"Room24" = "+Custom";
 ///设备状态描述
 "TemperatureHigherThan" = "Temperature higher than";
 "TemperatureLowerThan" = "Temperature lower than";
@@ -969,7 +969,7 @@
 "ConditionCannotNull" = "Condition cannot be empty";
 "ExecuteResultCannotNull" = "Executed result cannot be empty";
 "AllConditionsMet" = "When all conditions are met";
-"CycleManyTimesEveryDay" = "Cycle many times everyday";
+"CycleManyTimesEveryDay" = "Cycle Daily";
 "Interval%dMin" = "Interval %d Min";
 "CustomTiming" = "Custom";
 "Execute" = "Execute";
@@ -1045,7 +1045,7 @@
 "Selected" = "Selected";
 "HasBeenSelected" = "Already selected";
 "TheDevHasBeenBoundSceneCannotSelect" = "The device which bond to scene cannot be selected";
-"TheDevIsAISmartTriggerConditionCannotSelect" = "The device which has been a shedule trigger condition cannot be selected";
+"TheDevIsAISmartTriggerConditionCannotSelect" = "The device which has been a Schedule trigger condition cannot be selected";
 "AddDevTypeNeedKeepTogether" = "The added device types should be consistent";
 "TheDevUnMatchPleaseMatch" = "The deivce is not matched, please match";
 ///灯控组
@@ -1089,7 +1089,7 @@
 "PleaseTurnOffAllAay24Hours" = "Please turn off whole day 24 hours firstly";
 ///判断条件列表
 "JudgingConditionsList" = "List of conditions";
-"TimingSelect" = "Schedule Settings";
+"TimingSelect" = "Excecution Times";
 "AlreadyAnEffectiveTimeCannotAdd" = "Cannot add more, since there is already a execution period";
 "RepeatOption" = "Please Select";
 "Custom" = "Custom";

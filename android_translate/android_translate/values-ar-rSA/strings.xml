@@ -229,7 +229,7 @@
     <string name="time_friday">الجمعة</string>
     <string name="time_saturday">السبت</string>
     <string name="time_hour">اليوم بأكمله</string>
-    <string name="condition_time">فترة التشغيل</string>
+    <string name="condition_time">وقت التنفيذ</string>
     <string name="condition_count">لا يمكن أن تزيد كميات الشروط عن 6</string>
     <string name="condition_time_one">لا يمكن إضافة المزيد نظرًا لوجود فترة سارية بالفعل</string>
     <string name="disturb_mode">وضع عدم الإزعاج</string>
@@ -238,7 +238,7 @@
     <string name="repeat">كرر</string>
     <string name="time_start">وقت البدء</string>
     <string name="time_end">وقت الانتهاء</string>
-    <string name="time_morrow">%s—%s(morrow)</string>
+    <string name="time_morrow">%s—%s(Tomorrow)</string>
     <string name="next_day"> ( غدًا ) %s</string>
     <string name="week_select_all">الكل محدد</string>
     <string name="edit_action">تحرير الإجراء</string>
@@ -1304,13 +1304,13 @@
     <string name="auto_set_condition">الشروط الأساسية</string>
     <string name="auto_set_active">فترة التنفيذ</string>
     <string name="auto_set_active_all">طوال اليوم</string>
-    <string name="auto_set_timing">حدد نوع التوقيت</string>
+    <string name="auto_set_timing">وقت التنفيذ</string>
     <string name="auto_set_timing_custom">مخصص</string>
-    <string name="auto_set_timing_loop">تكرار متعدد مرات</string>
+    <string name="auto_set_timing_loop">تكرار يوميًا</string>
     <string name="auto_set_time">تعيين الوقت</string>
-    <string name="auto_time_1">إعدادات الجدولة</string>
+    <string name="auto_time_1">وقت التنفيذ</string>
     <string name="auto_set_time_item">مخصص</string>
-    <string name="auto_set_time_loop">تكرار متعدد مرات كل يوم</string>
+    <string name="auto_set_time_loop">تكرار يوميًا</string>
     <string name="auto_set_time_loop_tip">فاصل التكرار</string>
     <string name="auto_set_time_loop_intervals">فاصل %s دقيقة</string>
     <string name="auto_condition_limit">الحد هو 6 شروط</string>
@@ -1319,7 +1319,7 @@
     <string name="auto_time_real">%s دقيقة</string>
     <string name="push_tip_title">رسالة تنبيه</string>
     <string name="push_tip_title_2">بث نصي</string>
-    <string name="push_tip">إعلام افتراضي</string>
+    <string name="push_tip">تنبيه افتراضي</string>
     <string name="push_count">0/20</string>
     <string name="push_content">محتوى البث</string>
     <!-- ******************************* 自动化 end *****************************************-->
