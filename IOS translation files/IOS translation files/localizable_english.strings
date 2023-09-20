@@ -1601,4 +1601,7 @@
 "HumidityCurve" = "Humidity curve";
 //空调伴侣电视匹配
 "PAIR-TV" = "PAIR-TV";
-
+"REPAIR-TV" = "REPAIR-TV";
+//更换头像
+"ViewLargeImage" = "View a large image";
+"UserImage" = "User image";
