@@ -1023,7 +1023,7 @@
     <string name="ac_remote_pair_content">Whether to rematch remote control?</string>
     <!--电视-->
     <string name="tv_tip_title">Match instruction</string>
-    <string name="tv_tip_content">Please say \&quot; &#160;match TV &#160;\&quot; to the air-conditioning controller,align the original remote control in your hand with the device,press remote control keys in turn according to the voice prompt, and the system will automatically learn.</string>
+    <string name="tv_tip_content">Please say \&quot; &#160;PAIR-TV&#160;\&quot; to the air-conditioning controller,align the original remote control in your hand with the device,press remote control keys in turn according to the voice prompt, and the system will automatically learn.</string>
     <string name="tv_no_study">The key was not learned</string>
     <string name="tv_key_custom">Customized key (long press to edit name)</string>
     <string name="command_delete_title">Delete command</string>
@@ -1435,4 +1435,26 @@
     <string name="info_group_synchronization_success">Sync succeed</string>
     <string name="info_group_synchronization_fail">Sync failed</string>
     <!-- ******************************* 技能组 end *****************************************-->
+    <string name="auto_control_tip">The device which has already been a linkage trigger source cannot be selected</string>
+    <string name="auto_input_name">Please enter name</string>
+    <string name="auto_condition_must_have">condition must have one</string>
+    <string name="auto_control_must_have">control must have one</string>
+    <string name="auto_have_deleted">schedule have been deleted</string>
+
+    <string name="modify_account">Modify account</string>
+    <string name="modify_account_new">New account</string>
+    <string name="modify_account_new_again">Confirm new account</string>
+    <string name="modify_account_different">The account input twice are inconsistent</string>
+    <string name="modify_password">Modify password</string>
+    <string name="modify_password_old">Please enter original password</string>
+    <string name="modify_password_new">Please enter a new password</string>
+    <string name="modify_password_new_again">Confirm new password again</string>
+
+    <string name="ac_tv_pair">PAIR-TV</string>
+    <string name="ac_feedback">Feedback words</string>
+    <string name="ac_feedback_tip">Please select the air conditioner companion feedback word</string>
+    <string name="ac_feedback_english">English (default)</string>
+    <string name="ac_feedback_arabic">Arabic</string>
+    <string name="ac_feedback_di">Reply\&quot;drop\&quot;</string>
+    <string name="ac_feedback_mute">Mute</string>
 </resources>
