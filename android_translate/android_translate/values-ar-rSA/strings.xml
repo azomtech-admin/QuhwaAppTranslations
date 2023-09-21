@@ -74,9 +74,9 @@
     <!-- ========================================Device Log start========================================================-->
     <string name="no_log">لا توجد سجلات</string>
     <string name="log_content">محتوى السجل</string>
-    <string name="clear_log">تفريغ</string>
-    <string name="clear_success">تم التفريغ بنجاح</string>
-    <string name="clear_log_title">تفريغ السجل</string>
+    <string name="clear_log">مسح</string>
+    <string name="clear_success">تم المسح بنجاح</string>
+    <string name="clear_log_title">مسح السجل</string>
     <string name="clear_log_content">هل تريد بالتأكيد مسح جميع معلومات السجل من الجهاز؟</string>
     <string name="light_on">تشغيل</string>
     <string name="light_off">إيقاف</string>
@@ -515,8 +515,8 @@
     <string name="main_door_ Close">الباب/النافذة مغلقة</string>
     <string name="main_sensor_dismantle">إزالة إنذار المستشعر</string>
     <string name="main_click_button">زر بنقرة واحدة</string>
-    <string name="enable_security">الذراع</string>
-    <string name="disable_security">نزع السلاح</string>
+    <string name="enable_security">تفعيل</string>
+    <string name="disable_security">تعطيل</string>
     <!-- ========================================安防设备类 end========================================================-->
     <!-- ========================================智能门锁 start========================================================-->
     <string name="lock_log">سجلات قفل الباب</string>
