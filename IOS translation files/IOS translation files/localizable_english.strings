@@ -1607,6 +1607,6 @@
 "UserImage" = "User image";
 //海外版空调伴侣
 "PleaseSelectDevFacebackWord" = "Please select feedback voice";
-"FacebackDi" = "Voice prompt \nDi\n only";
+"FacebackDi" = "Voice prompt \"Di\" only";
 "FacebackWord" = "Feedback voice";
 "Mute" = "Mute";
