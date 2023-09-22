@@ -1605,3 +1605,8 @@
 //更换头像
 "ViewLargeImage" = "تكبير الصورة";
 "UserImage" = "صورة المستخدم";
+//海外版空调伴侣
+"PleaseSelectDevFacebackWord" = "Please select feedback voice";
+"FacebackDi" = "Voice prompt \nDi\n only";
+"FacebackWord" = "Feedback voice";
+"Mute" = "Mute";
