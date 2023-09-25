@@ -1606,7 +1606,7 @@
 "ViewLargeImage" = "تكبير الصورة";
 "UserImage" = "صورة المستخدم";
 //海外版空调伴侣
-"PleaseSelectDevFacebackWord" = "Please select feedback voice";
-"FacebackDi" = "Voice prompt \"Di\" only";
-"FacebackWord" = "Feedback voice";
-"Mute" = "Mute";
+"PleaseSelectDevFacebackWord" = "يرجى اختيار صوت الأوامر";
+"FacebackDi" = "صوت ضغطة زر";
+"FacebackWord" = "صوت الأوامر";
+"Mute" = "كتم الصوت";
