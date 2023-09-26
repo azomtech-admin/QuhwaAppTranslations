@@ -81,14 +81,14 @@
 "GatewayOffline" = "البوابة غير متصلة بالإنترنت";
 "DataException" = "استثناء البيانات";
 "FunctionNotActivated" = "لم يتم تنشيط هذه الوظيفة حتى الآن";
-"MainGw" = "البوابة الأساسية";
+"MainGw" = "البوابة الرئيسية";
 "AddSuccess" = "تمت الإضافة بنجاح";
 "AddFail" = "فشلت الإضافة";
 "NameAlreadyExists" = "اسم المستخدم موجود بالفعل";
 "NotManagerTips" = "مسؤولو المنزل فقط لديهم الإذن بالتشغيل";
 "SetName" = "اسم التعيين";
 ///百度语音
-"GwNotBound" = "لا يمكن استخدامه إذا كانت البوابة غير مرتبطة";
+"GwNotBound" = "لا يمكن استخدامه إذا كانت البوابة غير متصلة";
 "YouCanSayToMe" = "يمكنك أن تقول لي هذا:";
 "PlayMusic" = "تشغيل الموسيقى";
 "OpenLivingRoomLamp" = "تشغيل ضوء غرفة المعيشة";
@@ -140,10 +140,10 @@
 "LenghtMore20" = "لا يمكن أن يتجاوز 20 حرفًا";
 "AdministratorsPermissions" = "المسؤول الدائم فقط لديه الإذن";
 ///编辑家庭
-"GwNotBoundTemporarily" = "البوابة غير مرتبطة حتى الآن";
+"GwNotBoundTemporarily" = "البوابة غير متصلة حتى الآن";
 "UpdataFamilyName" = "تعديل اسم المنزل";
 "NameNotUpdata" = "الاسم لم يتغير";
-"PleaseBoundGw" = "الرجاء ربط البوابة أولاً";
+"PleaseBoundGw" = "المنزل غير متصل ببوابة";
 "DeleteFamily" = "حذف الصفحة الرئيسية";
 "AreYouSureDeleteTheFamily" = "هل أنت متأكد من رغبتك في حذف هذا المنزل؟";
 ///庭管理
@@ -152,9 +152,9 @@
 "FamilyName" = "اسم المنزل";
 "SetFamilyName" = "تعيين اسم المنزل";
 "FamilyTimeZone" = "المنطقة الزمنية الرئيسية";
-"FamilyMainGw" = "البوابة الأساسية للمنزل";
+"FamilyMainGw" = "البوابة الرئيسية للمنزل";
 "AllDevice" = "جميع الأجهزة";
-"MainGwOfflineNotif" = "إشعار عدم اتصال البوابة الأساسية";
+"MainGwOfflineNotif" = "إشعار عدم اتصال البوابة الرئيسية";
 "Save" = "حفظ";
 ///网关列表
 "GwList" = "قائمة البوابة";
@@ -164,14 +164,14 @@
 ///添加设备
 "AddDev" = "إضافة جهاز";
 "SearchDev" = "جهاز البحث";
-"PleaseBoundMainGw" = "الرجاء ربط البوابة الأساسية أولاً";
+"PleaseBoundMainGw" = "الرجاء توصيل البوابة الرئيسية أولاً";
 "SubGw" = "البوابة الفرعية";
 "BgMusic" = "موسيقى خلفية";
 "BgMusic-S" = "موسيقى الخلفية S";
 "BgMusic-Y300" = "موسيقى الخلفية - Y300";
 "AddSubGw" = "إضافة بوابة فرعية";
-"ScanCodeBoundDev" = "مسح الرمز ضوئيًا لربط الجهاز";
-"BoundMainGw" = "ربط البوابة الأساسية";
+"ScanCodeBoundDev" = "مسح الرمز ضوئيًا لتوصيل الجهاز";
+"BoundMainGw" = "توصيل البوابة الرئيسية";
 "UnknownDev" = "جهاز غير معروف";
 "PleaseScanSubGwCode" = "يُرجى مسح رمز الاستجابة السريعة للبوابة الفرعية ضوئيًا";
 "PleaseScanDevCode" = "يُرجى مسح رمز QR الخاص بالجهاز";
@@ -332,8 +332,8 @@
 "PleaseCheckGw" = "البوابة غير متصلة بالإنترنت، يرجى التحقق من البوابة!";
 "PleaseCheckDev" = "الجهاز غير متصل بالإنترنت، يرجى التحقق من الجهاز!";
 ///备日志
-"MainGwLog" = "سجل البوابة الأساسية";
-"TryingLoad" = "جارٍ محاولة التحميل…";
+"MainGwLog" = "سجلات البوابة الرئيسية";
+"TryingLoad" = "جارٍ التحميل…";
 "NoMoreData" = "لا مزيد من البيانات";
 "Empty" = "مسح";
 "EmptyLog" = "مسح السجلات";
@@ -344,10 +344,10 @@
 ///备日志翻译中文
 "Online" = "متصل";
 "Offline" = "غير متصل";
-"Unbound" = "امسح الرمز للربط";
+"Unbound" = "امسح الرمز للتوصيل";
 "Reset" = "إعادة الضبط";
 "UpgradSuccess" = "نجحت الترقية";
-"BoundSuccess" = "نجح الربط";
+"BoundSuccess" = "نجح التوصيل";
 "Close" = "إغلاق";
 "Open" = "فتح";
 "Stop" = "توقف";
@@ -519,15 +519,15 @@
 "MoveTo" = "الانتقال إلى";
 "Rename" = "إعادة التسمية";
 "UpdataDevName" = "تعديل اسم الجهاز";
-"BoundMainGwSuccess" = "نجح ربط البوابة الأساسية";
-"TheMianGwHasBeenBoundByAnotherFamily" = "تم ربط هذه البوابة الأساسية بمنزل آخر";
+"BoundMainGwSuccess" = "نجح اتصال البوابة الرئيسية";
+"TheMianGwHasBeenBoundByAnotherFamily" = "تم توصيل هذه البوابة الرئيسية بمنزل آخر";
 "AccountNotExistent" = "رقم الحساب غير موجود";
-"TheMianGwHasBeenBoundByMyself" = "لقد قمت بربط هذه البوابة الأساسية بنفسك";
-"TheGwHasBeenBoundByAnotherFamily" = "تم ربط البوابة بمنزل آخر";
+"TheMianGwHasBeenBoundByMyself" = "لقد قمت بتوصيل هذه البوابة الرئيسية بنفسك";
+"TheGwHasBeenBoundByAnotherFamily" = "تم توصيل البوابة بمنزل آخر";
 "SerialCodeIllegal" = "رمز QR غير قانوني";
 "GwNotDetectedSuccess" = "لم يتم اكتشاف البوابة بنجاح";
 "GwTypeError" = "نوع البوابة خاطئ";
-"BoundMainGwFail" = "فشل ربط البوابة الأساسية";
+"BoundMainGwFail" = "فشل توصيل البوابة الرئيسية";
 "DevNotExistent" = "الجهاز غير موجود";
 "CannotDelete" = "لا يمكن حذفه";
 ///备库
@@ -1108,7 +1108,7 @@
 "MobileUnConectDevHotspot" = "الجوال غير متصل بشبكة WiFi للجهاز";
 "DevAlreadyHasBeenAdd" = "تمت إضافة الجهاز بالفعل";
 "SubGwHasBeenAdd" = "تمت إضافة البوابة الفرعية";
-"MainGwHasBeenBound" = "تم ربط البوابة الرئيسية";
+"MainGwHasBeenBound" = "تم توصيل البوابة الرئيسية";
 "CurrentMainGwVerLowPleaseUpgrade" = "إصدار البرنامج الثابت للبوابة الرئيسية الحالي منخفض جدًا، يرجى التحديث";
 "HasBeenSacnGwVerLowPleaseUpgrade" = "إصدار البرنامج الثابت للبوابة الذي تم فحصه منخفض جدًا، يرجى التحديث";
 ///安防
@@ -1234,7 +1234,7 @@
 "GwOffline" = "البوابة غير متصلة بالإنترنت";
 "DevOffline" = "الجهاز غير متصل بالإنترنت";
 "HaveFirmwareUpdatingPleaseWait" = "يتم تحديث البرنامج الثابت، يرجى المحاولة لاحقًا";
-"NoBoundMainGwPleaseBound" = "البوابة الرئيسية غير مرتبطة، يرجى ربط البوابة الرئيسية أولاً";
+"NoBoundMainGwPleaseBound" = "البوابة الرئيسية غير متصلة، يرجى توصيلها";
 "MemberManagement" = "إدارة الأعضاء";
 "AddSharedMembers" = "إضافة أعضاء مشتركين";
 "ExitFamily" = "الخروج من المنزل";

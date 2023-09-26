@@ -45,10 +45,10 @@
     <string name="code_32">نوع البوابة غير صحيح</string>
     <string name="code_33">إصدار البوابة الأساسي منخفض جدًا، يجب ترقيته أولاً</string>
     <string name="code_34">الإصدار الحالي للبوابة منخفض جدًا، يُرجى ترقيته أولاً</string>
-    <string name="code_21">هو بوابة فرعية وتم ربطها بالفعل</string>
+    <string name="code_21">هذه بوابة فرعية وهي متصلة بالفعل</string>
     <string name="str_user_notexist">الحساب غير موجود</string>
     <string name="code_failed">فشل الرمز = %d</string>
-    <string name="can_not_set_gateway">لا يمكن تعيين البوابة بدون ربط</string>
+    <string name="can_not_set_gateway">لا يمكن تعيين البوابة بدون اتصال</string>
     <string name="code_7">المستخدم موجود بالفعل</string>
     <string name="code_7_scene_alia">اسم السيناريو موجود بالفعل</string>
     <string name="str_user_noperm">المستخدم ليس لديه أذونات</string>
@@ -286,13 +286,13 @@
     <string name="search_time_number">%ds</string>
     <string name="search_help">لا يمكنك العثور على الجهاز؟ انقر لقراءة التعليمات</string>
     <string name="search_no_permission">أنت لست مسؤولاً ولا يمكنك إضافة أجهزة!</string>
-    <string name="search_bind_gateway_first">يُرجى ربط البوابةالرئيسية أولاً</string>
-    <string name="search_bind_gateway_click">البوابة الأساسية غير مرتبطة، يرجى ربط البوابة الرئيسية أولاً</string>
+    <string name="search_bind_gateway_first">يُرجى توصيل البوابةالرئيسية أولاً</string>
+    <string name="search_bind_gateway_click">البوابة الرئيسية غير متصلة، يرجى توصيلها </string>
     <string name="search_bind_gateway_offline">البوابة غير متصلة بالإنترنت، يرجى التحقق من البوابة!</string>
     <string name="only_manager_have_permission">المسؤولون فقط لديهم الأذونات</string>
-    <string name="bind_main_gateway">ربط البوابة الأساسية</string>
+    <string name="bind_main_gateway">توصيل البوابة الرئيسية</string>
     <string name="bind_sub_gateway">أضف بوابة فرعية</string>
-    <string name="bind_devices">المسح لربط الأجهزة</string>
+    <string name="bind_devices">امسح لتوصيل الأجهزة</string>
     <!-- ========================================搜索设备 end========================================================-->
 
     <!-- ========================================家庭管理 start========================================================-->
@@ -308,9 +308,9 @@
     <string name="home_time_zone_select">حدد المنطقة الزمنية</string>
     <string name="home_time_zone_select_error">تنسيق غير صحيح</string>
     <string name="home_main_gateway">البوابة الرئيسية الرئيسية</string>
-    <string name="home_main_gateway_log">سجل البوابة الأساسية</string>
-    <string name="home_main_gateway_offline">إشعار البوابة الأساسية بلا اتصال</string>
-    <string name="home_device_count">كميات جميع الأجهزة</string>
+    <string name="home_main_gateway_log">سجل البوابة الرئيسية</string>
+    <string name="home_main_gateway_offline">إشعار البوابة الرئيسية غير متصلة</string>
+    <string name="home_device_count">عدد الأجهزة</string>
     <string name="home_have_delete">تم حذف المنزل</string>
     <string name="home_not_bind_gateway">البوابة غير متصلة</string>
     <string name="home_delete_fail">لا يمكن حذف المنزل الوحيد</string>
@@ -489,7 +489,7 @@
     <string name="firmware_update_new_version">أحدث إصدار : </string>
     <string name="firmware_update_soon">قم بالتحديث الآن</string>
     <string name="network_getting">جاري التحميل&#8230;</string>
-    <string name="bind_gateway_first">اربط البوابة أولاً</string>
+    <string name="bind_gateway_first">توصيل البوابة أولاً</string>
     <string name="bind_gateway_update">تم العثور على إصدار جديد، يمكنك النقر عليه لتحديثه.</string>
     <string name="firmware_update_reboot">ملاحظة: قد تتم إعادة تشغيل الجهاز أثناء عملية التحديث، لا تعمل</string>
     <string name="firmware_update_long_time">التحديث، ستستغرق عملية التحديث وقتًا طويلاً، يرجى التحلي بالصبر</string>
@@ -499,7 +499,7 @@
     <string name="firmware_update_fail_fold_not_transfer">فشل التحديث، فشل في نقل الملف</string>
     <string name="firmware_update_fail_gateway_not_online">البوابة ليست متصلة بالإنترنت، لذا لا يمكن تحديثها</string>
     <string name="firmware_update_to_device">انقر على "تحديث" على الجهاز</string>
-    <string name="gateway_unbound">تم فك ربط البوابة، يرجى ربطها مرة أخرى</string>
+    <string name="gateway_unbound">انقطع اتصال البوابة، يرجى توصيلها مرة أخرى</string>
     <!-- ========================================我的 end========================================================-->
 
     <!-- ========================================安防设备类 start========================================================-->
@@ -610,7 +610,7 @@
     <string name="home_tab_device">الأجهزة</string>
     <string name="simple_mode">الشكل المبسط</string>
     <string name="no_bind_gateway">المنزل غير مرتبط ببوابة</string>
-    <string name="bind">اربط البوابة</string>
+    <string name="bind">توصيل البوابة</string>
     <string name="do_ok">تم</string>
     <string name="move">نقل</string>
     <string name="rename">إعادة التسمية</string>
@@ -787,11 +787,11 @@
     <string name="panel_romance_open">مفتاح الرومانسية قيد التشغيل</string>
     <string name="update_bound_scene">تعديل المشهد المنضم</string>
     <string name="update_bound_scene_tip">هل أنت متأكد من حذف ربط هذا المفتاح؟</string>
-    <string name="bounding">مربوط</string>
-    <string name="unbind">غير مربوط</string>
-    <string name="sure_bounding_tip">هذا المفتاح غير مربوط المشهد. هل تريد ربطه؟</string>
+    <string name="bounding">مرتبط</string>
+    <string name="unbind">غير مرتبط</string>
+    <string name="sure_bounding_tip">هذا المفتاح غير مرتبط المشهد. هل تريد ربطه؟</string>
     <string name="bounding_success">تم الربط</string>
-    <string name="code_27">هذا الجهاز مربوط بمشهد واحد ولا يمكن ربطه بمشاهد أخرى.</string>
+    <string name="code_27">هذا الجهاز مرتبط بمشهد ولا يمكن ربطه بمشاهد أخرى.</string>
     <string name="update_name">تعديل الاسم</string>
     <string name="update_name_key">تعديل اسم المفتاح</string>
     <!-- ******************************* 场景开关、随手贴、可视对讲 end *****************************************-->
