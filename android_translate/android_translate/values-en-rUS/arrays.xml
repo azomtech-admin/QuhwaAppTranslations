@@ -73,7 +73,7 @@
     </array>
 
     <array name="strs_auto_timing_types">
-        <item>Loop execution multiple times</item>
+        <item>Cycle Daily</item>
         <item>Custom</item>
     </array>
 

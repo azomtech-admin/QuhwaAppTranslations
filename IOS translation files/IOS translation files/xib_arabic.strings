@@ -2,7 +2,7 @@
 //*********XIB************
 
 /* Class = "UILabel"; text = "常用设备"; ObjectID = "LfT-zJ-hOJ"; */
-"LfT-zJ-hOJ.text" = "المعدات الشائعة";
+"LfT-zJ-hOJ.text" = "الأجهزة الشائعة";
 
 /* Class = "UILabel"; text = "极简模式"; ObjectID = "YjY-Dj-GtY"; */
 "YjY-Dj-GtY.text" = "الوضع البسيط";
@@ -281,7 +281,7 @@
 "FYe-hQ-U2g.text" = "فقط اضغط على الزر الأصفر لإغلاق كافة مفاتيح الهواء، ومن ثم يمكن استعادة جهاز التحكم عن بعد";
 
 /* Class = "UILabel"; text = " （注意：必须确认整个电路和电器设备处于安全状态！）"; ObjectID = "HCP-xd-y2H"; */
-"HCP-xd-y2H.text" = " (ملاحظة: يجب التأكد من أن الدائرة بأكملها والمعدات الكهربائية آمنة!)";
+"HCP-xd-y2H.text" = " (ملاحظة: يجب التأكد من أن الدائرة بأكملها والأجهزة الكهربائية آمنة!)";
 
 /* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "M3n-9A-zqw"; */
 "M3n-9A-zqw.normalTitle" = "الخطوة التالية";
@@ -371,7 +371,7 @@
 "FYe-hQ-U2g.text" = "فقط اضغط على الزر الأصفر لإغلاق كافة مفاتيح الهواء، ومن ثم يمكن استعادة جهاز التحكم عن بعد";
 
 /* Class = "UILabel"; text = " （注意：必须确认整个电路和电器设备处于安全状态！）"; ObjectID = "HCP-xd-y2H"; */
-"HCP-xd-y2H.text" = " (ملاحظة: يجب التأكد من أن الدائرة بأكملها والمعدات الكهربائية آمنة!)";
+"HCP-xd-y2H.text" = " (ملاحظة: يجب التأكد من أن الدائرة بأكملها والأجهزة الكهربائية آمنة!)";
 
 /* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "M3n-9A-zqw"; */
 "M3n-9A-zqw.normalTitle" = "الخطوة التالية";
@@ -1280,7 +1280,7 @@
 "2F0-ad-MjZ.text" = "حدد المفتاح المخصص فقط";
 
 /* Class = "UILabel"; text = "自定义键（长按可编辑名称）"; ObjectID = "9sd-7D-mpk"; */
-"9sd-7D-mpk.text" = "مفتاح مخصص (اضغط لفترة طويلة لتحرير الاسم)";
+"9sd-7D-mpk.text" = "مفتاح مخصص (اضغط لفترة طويلة لتعديل الاسم)";
 
 /* Class = "UILabel"; text = "匹配指引"; ObjectID = "PrB-Px-gdk"; */
 "PrB-Px-gdk.text" = "تعليمات المطابقة";
@@ -1478,7 +1478,7 @@
 "uZD-b2-T7x.normalTitle" = "اليوم";
 
 /* Class = "UIButton"; normalTitle = "满足其一条件时"; ObjectID = "YdL-5m-kPw"; */
-"YdL-5m-kPw.normalTitle" = "عند استيفاء شرط واحد";
+"YdL-5m-kPw.normalTitle" = "عند تحقق شرط واحد";
 
 /* Class = "UILabel"; text = "打开"; ObjectID = "g9n-se-i6M"; */
 "g9n-se-i6M.text" = "فتح";
@@ -1508,10 +1508,10 @@
 "fZw-dA-QSf.normalTitle" = "حالة مزامنة أجهزة التحكم في الإضاءة";
 
 /* Class = "UILabel"; text = "4、添加过程中保持连接设备热点"; ObjectID = "H2t-8Q-YO8"; */
-"H2t-8Q-YO8.text" = "4- أبقِ الجوال متصلاً بشبكة WiFi الخاصة بالجهاز أثناء عملية إضافة الجهاز.";
+"H2t-8Q-YO8.text" = "4- أبقِ الجوال متصلاً بشبكة Wi-Fi الخاصة بالجهاز أثناء عملية إضافة الجهاز.";
 
 /* Class = "UILabel"; text = "3、选择“IPCXXX”设备热点，默认密码：11111111"; ObjectID = "c2u-Wq-KA1"; */
-"c2u-Wq-KA1.text" = "3- حدد WiFi للجهاز 'IPCXX' وكلمة المرور الافتراضية: 11111111";
+"c2u-Wq-KA1.text" = "3- حدد Wi-Fi للجهاز 'IPCXX' وكلمة المرور الافتراضية: 11111111";
 
 /* Class = "UILabel"; text = "1、设备上电后，若蓝色指示灯未闪烁，请长按Reset键，发出“叮”的一声后，稍等片刻，待设备向四周巡航后，表示复位完成"; ObjectID = "gTm-Jl-WkR"; */
 "gTm-Jl-WkR.text" = "1- بعد تشغيل الجهاز، يرجى الضغط لفترة طويلة على زر إعادة الضبط إذا لم يومض مؤشر LED الأزرق. انتظر لحظة بعد سماع صوت 'Ding'، وسيقوم الجهاز بالتنقل رحلة بحرية ثم تكتمل عملية إعادة التعيين.";
@@ -1520,7 +1520,7 @@
 "j7T-Hg-1RZ.text" = "5- بعد توصيله، ارجع إلى التطبيق";
 
 /* Class = "UILabel"; text = "2、打开设置>选择WLAN，将手机无线网络连接到设备热点"; ObjectID = "jgN-2B-kct"; */
-"jgN-2B-kct.text" = "2- افتح الإعدادات> حدد WLAN، وقم بالاتصال بشبكة WiFi الخاصة بالجهاز";
+"jgN-2B-kct.text" = "2- افتح الإعدادات> حدد WLAN، وقم بالاتصال بشبكة Wi-Fi الخاصة بالجهاز";
 
 /* Class = "UILabel"; text = "前往设置"; ObjectID = "rgK-07-e8M"; */
 "rgK-07-e8M.text" = "الانتقال إلى الإعدادات";
@@ -1535,7 +1535,7 @@
 "kn5-6A-y1G.text" = "الخطوة التالية";
 
 /* Class = "UILabel"; text = "请选择2.4 GHz WIFI网络并输入密码，暂不支持使用5 GHz WiFi网络。"; ObjectID = "uXX-pl-hdl"; */
-"uXX-pl-hdl.text" = "الرجاء تحديد شبكة WIFI بتردد 2.4 جيجا هرتز وإدخال كلمة المرور. شبكة WiFi بتردد 5 جيجا هرتز غير مدعومة في الوقت الحالي.";
+"uXX-pl-hdl.text" = "يرجى تحديد شبكة Wi-Fi بتردد 2.4 جيجا هرتز وإدخال كلمة المرور. شبكة Wi-Fi بتردد 5 جيجا هرتز غير مدعومة في الوقت الحالي.";
 
 /* Class = "UILabel"; text = "1"; ObjectID = "K97-QW-hDl"; */
 "K97-QW-hDl.text" = "1";
@@ -1577,7 +1577,7 @@
 "Dri-os-m4d.text" = "开启摄像机";
 
 /* Class = "UILabel"; text = "保持摄像机处于开机状态，查看摄像机指示灯是否闪烁，如果指示灯没有闪烁，请长按Reset键重置。"; ObjectID = "k9g-7P-nPS"; */
-"k9g-7P-nPS.text" = "يرجى ملاحظة ما يلي: "إعادة تعيين 键 重置" .
+"k9g-7P-nPS.text" = "يرجى ملاحظة ما يلي:إعادة تعيين" .
 
 /* Class = "UILabel"; text = "设备指示灯已闪烁"; ObjectID = "ld3-le-sdp"; */
 "ld3-le-sdp.text" = " الغرض من الرفض ";
@@ -1676,7 +1676,7 @@
 "5zv-5N-W4y.segmentTitles[1]" = "التحكم في المشهد";
 
 /* Class = "UILabel"; text = "请选择操作"; ObjectID = "Ec8-ai-KmP"; */
-"Ec8-ai-KmP.text" = "الرجاء تحديد عملية";
+"Ec8-ai-KmP.text" = "يرجى تحديد عملية";
 
 /* Class = "UIButton"; normalTitle = "取消"; ObjectID = "gv6-hc-wUr"; */
 "gv6-hc-wUr.normalTitle" = "إلغاء";

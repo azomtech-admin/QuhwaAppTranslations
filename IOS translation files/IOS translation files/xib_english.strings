@@ -2,13 +2,13 @@
 //*********XIB************
 
 /* Class = "UILabel"; text = "常用设备"; ObjectID = "LfT-zJ-hOJ"; */
-"LfT-zJ-hOJ.text" = "Common Equipment";
+"LfT-zJ-hOJ.text" = "Common Devices";
 
 /* Class = "UILabel"; text = "极简模式"; ObjectID = "YjY-Dj-GtY"; */
 "YjY-Dj-GtY.text" = "Simple Mode";
 
 /* Class = "UILabel"; text = "常用场景"; ObjectID = "efx-Sn-5Nq"; */
-"efx-Sn-5Nq.text" = "Common Scene";
+"efx-Sn-5Nq.text" = "Common Scenes";
 
 /* Class = "UILabel"; text = "家庭管理"; ObjectID = "ydS-QE-hYe"; */
 "ydS-QE-hYe.text" = "Manage Home";
@@ -17,7 +17,7 @@
 "2A3-Z3-wJK.text" = "120s";
 
 /* Class = "UIButton"; normalTitle = "搜索不到设备？点击查看帮助 >"; ObjectID = "AL3-en-IXT"; */
-"AL3-en-IXT.normalTitle" = "Can't find the device? Click to view help";
+"AL3-en-IXT.normalTitle" = "Can't find the device?";
 
 /* Class = "UIButton"; normalTitle = "重新搜索"; ObjectID = "Fxi-8R-ZBl"; */
 "Fxi-8R-ZBl.normalTitle" = "Search Again";
@@ -35,10 +35,10 @@
 "VnN-Dd-zcT.text" = "No replacement for now";
 
 /* Class = "UILabel"; text = "当设备损坏、丢失或离线时，可以选择新的设备进行替换，新设备将保留设备的功能，包括名称、AI智能、场景等"; ObjectID = "dBJ-DR-oPa"; */
-"dBJ-DR-oPa.text" = "When a device is damaged, lost or offline, you can replace it with a new one. The new device will retain the old one's functionalities including name, AI smart, scenes and so on";
+"dBJ-DR-oPa.text" = "When a device is damaged, lost or offline, you can replace it with a new one. The new device will retain the old one's functionalities including name, schedules, scenes and so on";
 
 /* Class = "UILabel"; text = "注：仅支持未添加AI智能或场景的设备进行替换"; ObjectID = "h9a-JI-eAO"; */
-"h9a-JI-eAO.text" = "Note: The new device should not be added for any AI smart or scenes before replacing the old one";
+"h9a-JI-eAO.text" = "Note: The new device should not be added for any schedules or scenes before replacing the old one";
 
 /* Class = "UIButton"; normalTitle = "确定"; ObjectID = "G80-2P-sbw"; */
 "G80-2P-sbw.normalTitle" = "Confirm";
@@ -1247,7 +1247,7 @@
 "Nsp-Gg-jXh.text" = "Refrigeration";
 
 /* Class = "UILabel"; text = "设置定时时间"; ObjectID = "Oyu-DI-xEt"; */
-"Oyu-DI-xEt.text" = "Set count down time";
+"Oyu-DI-xEt.text" = "Set countdown time";
 
 /* Class = "UILabel"; text = "1小时"; ObjectID = "Qnl-vL-gb9"; */
 "Qnl-vL-gb9.text" = "1 hour";
@@ -1508,10 +1508,10 @@
 "fZw-dA-QSf.normalTitle" = "Sync status of light control devices";
 
 /* Class = "UILabel"; text = "4、添加过程中保持连接设备热点"; ObjectID = "H2t-8Q-YO8"; */
-"H2t-8Q-YO8.text" = "4- Keep the mobile connected to the device's WiFi in the process of adding the device.";
+"H2t-8Q-YO8.text" = "4- Keep the mobile connected to the device's Wi-Fi in the process of adding the device.";
 
 /* Class = "UILabel"; text = "3、选择“IPCXXX”设备热点，默认密码：11111111"; ObjectID = "c2u-Wq-KA1"; */
-"c2u-Wq-KA1.text" = "3- Select device WiFi 'IPCXX' and default password: 11111111";
+"c2u-Wq-KA1.text" = "3- Select device Wi-Fi 'IPCXX' and default password: 11111111";
 
 /* Class = "UILabel"; text = "1、设备上电后，若蓝色指示灯未闪烁，请长按Reset键，发出“叮”的一声后，稍等片刻，待设备向四周巡航后，表示复位完成"; ObjectID = "gTm-Jl-WkR"; */
 "gTm-Jl-WkR.text" = "1- After powering on the device, please long press the Reset button if the blue LED is not blicking. Wait for a moment after hearing a 'Ding' sound, and the device will navigate a cruise then the reset process is complete.";
@@ -1535,7 +1535,7 @@
 "kn5-6A-y1G.text" = "Next step";
 
 /* Class = "UILabel"; text = "请选择2.4 GHz WIFI网络并输入密码，暂不支持使用5 GHz WiFi网络。"; ObjectID = "uXX-pl-hdl"; */
-"uXX-pl-hdl.text" = "Please select a 2.4 GHz WIFI network and enter the password. 5 GHz WiFi network is not supported for now.";
+"uXX-pl-hdl.text" = "Please select a 2.4 GHz Wi-Fi network and enter the password. 5 GHz Wi-Fi network is not supported for now.";
 
 /* Class = "UILabel"; text = "1"; ObjectID = "K97-QW-hDl"; */
 "K97-QW-hDl.text" = "1";

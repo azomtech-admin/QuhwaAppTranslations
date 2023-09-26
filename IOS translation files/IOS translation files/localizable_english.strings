@@ -8,7 +8,7 @@
 /**********************Localizable******************/
 
 ///App应用名称
-"Quhwa" = "Azom";
+"Quhwa" = "AZOM AI";
 ///登录
 "Login" = "Sign In";
 "Logging" = "Logging";
@@ -60,7 +60,7 @@
 "PwdNotNull" = "Password can't be empty";
 "VerificationCodeErrorSingUpFail" = "Verification code error, account failed to be created";
 "ChangePwdSuccessReLogin" = "Password was changed successfully, please sign in again";
-"ChangePwdFail" = "Failed to modify password";
+"ChangePwdFail" = "Failed to edit password";
 "AccountOrPwdError" = "Incorrect username or password";
 "AccountOrPwdIsNull" = "Account or password is null";
 "ResetPwdFail" = "Password failed to be reset";
@@ -86,7 +86,7 @@
 "AddFail" = "Failed to be added";
 "NameAlreadyExists" = "The username already exists";
 "NotManagerTips" = "Only home admins have permission to operate";
-"SetName" = "Set The Name";
+"SetName" = "Set the name";
 ///百度语音
 "GwNotBound" = "It can't be used if the gateway is not bound";
 "YouCanSayToMe" = "You can say this to me:";
@@ -132,8 +132,8 @@
 "UserNotExist" = "User does not exist";
 "Fail" = "Failed";
 "MiniMode" = "Simple mode";
-"CommonlyUsedScenes" = "Common Scene";
-"CommonlyUsedDevice" = "Common Equipment";
+"CommonlyUsedScenes" = "Common Scenes";
+"CommonlyUsedDevice" = "Common Devices";
 ///添加家庭
 "PleaseNameFamily" = "Edit home name";
 "NameWrongful" = "Invalid name";
@@ -141,9 +141,9 @@
 "AdministratorsPermissions" = "Only the permanent administrator has permission";
 ///编辑家庭
 "GwNotBoundTemporarily" = "Gateway is not bound until now";
-"UpdataFamilyName" = "Modify home name";
+"UpdataFamilyName" = "Edit home name";
 "NameNotUpdata" = "Name unchanged";
-"PleaseBoundGw" = "Please bind the gateway";
+"PleaseBoundGw" = "Primary gateway is not bound";
 "DeleteFamily" = "Delete home";
 "AreYouSureDeleteTheFamily" = "Are you sure you want to delete this home?";
 ///家庭管理
@@ -164,7 +164,7 @@
 ///添加设备
 "AddDev" = "Add a device";
 "SearchDev" = "Search for Devices";
-"PleaseBoundMainGw" = "ParallelingNotExisitlease bind the gateway first";
+"PleaseBoundMainGw" = "Please bind the gateway first";
 "SubGw" = "Sub-gateway";
 "BgMusic" = "Background music";
 "BgMusic-S" = "Background music S";
@@ -187,7 +187,7 @@
 "AddSuccess" = "Successfully added";
 "AddFail" = "Failed to be added";
 ///添加设备帮助
-"DevType" = "Equipment type";
+"DevType" = "Device type";
 "SmartGw" = "Smart gateway";
 "Switch-SingleKey" = "Switch (one button)";
 "Switch-DoubleKey" = "Switch (two buttons)";
@@ -199,12 +199,12 @@
 ///扫描二维码
 "ScanQRCode" = "Scan QR code";
 "AccessCamera" = "Access camera";
-"PleaseSetCameraAuth" = "Please enable the permission to access the camera in the phone settings";
+"PleaseSetCameraAuth" = "Please enable the permission to access the camera in the mobile settings";
 "Back" = "Back";
 "SetUp" = "Setup";
 ///替换设备
-"ReplaceDev" = "Replace equipment";
-"ReplaceableDev" = "Replaceable equipment";
+"ReplaceDev" = "Replace device";
+"ReplaceableDev" = "Replaceable device";
 "AreYouSureReplaceTheDev" = "Are you sure you want to replace this device?";
 "ReplaceDevSuccess" = "Replace the device successfully";
 "ReplaceDevFail" = "Failed to replace the device";
@@ -220,12 +220,12 @@
 "DevLocation" = "Device location";
 "DevLog" = "Device Log";
 "ZigBeeSingle" = "ZigBee signal";
-"RemainingPower" = "Remaining";
+"RemainingPower" = "Remaining Power";
 "DevMac" = "Device Mac";
 "GwOwnership" = "Gateway ownership";
 "DevID" = "Device ID";
 "FirmwareVer" = "Firmware version";
-"DevReplace" = "Equipment replacement";
+"DevReplace" = "Device replacement";
 "PropertySettings" = "Property settings";
 "CurtainDirectionReversal" = "Reverse the running direction of the curtain";
 "TravelSettingGuidance" = "Route setting guide";
@@ -248,7 +248,7 @@
 "SetTemperatureProtect" = "Set temperature protection";
 "SetPowerProtect" = "Set power protection";
 "CheckUpdate" = "Check for updates";
-"SubDev" = "Sub-equipment";
+"SubDev" = "Sub-device";
 "CoordinatorVer" = "Coordinator version";
 "MemoryFunction" = "Memory function";
 "Timing" = "Timer";
@@ -512,13 +512,13 @@
 "CenterKeyTouch" = "Center key click";
 "RightKeyTouch" = "Right key click";
 ///设备主页
-"ToBound" = "Not bound";
+"ToBound" = "Scan to Bind";
 "PleaseAddDev" = "Please add a device first";
-"RoomNoDev" = "There is no equipment in the room";
+"RoomNoDev" = "No devices in the room";
 "RefreshData" = "Refresh data";
 "MoveTo" = "Move to";
 "Rename" = "Rename";
-"UpdataDevName" = "Modify device name";
+"UpdataDevName" = "Edit device name";
 "BoundMainGwSuccess" = "Binding primary gateway succeeded";
 "TheMianGwHasBeenBoundByAnotherFamily" = "This primary gateway is bounded to another home";
 "AccountNotExistent" = "Account number does not exist";
@@ -531,7 +531,7 @@
 "DevNotExistent" = "Device does not exist";
 "CannotDelete" = "Cannot be deleted";
 ///设备库
-"DevLibs" = "Equipment library";
+"DevLibs" = "Devices Library";
 "SaveSuccess" = "Saved successfully";
 "SaveFail" = "Save failed";
 ///空气净化器
@@ -561,7 +561,7 @@
 "SetEnergyhreshold" = "Set energy threshold";
 ///空气开关
 "PleaseCheckHomeAppliances" = "Please check the household appliances at home first";
-"PleaseCheckHomeAppliances\nTips" = "Please check household appliances \n  after it's mandatory to switch off, switch on only through the mobile APP, impossible to switch on through equipment manually";
+"PleaseCheckHomeAppliances\nTips" = "Please check household appliances \n  after it's mandatory to switch off, switch on only through the mobile APP, impossible to switch on through device manually";
 "TakeNote" = "Note";
 "Checked" = "Checked";
 "CelsiusDegree" = "Degree";
@@ -607,7 +607,7 @@
 "FirstKey" = "First key";
 "SecondKey" = "Second key";
 "ThirdKey" = "Third key";
-"UpdataButtonName" = "Modify key name";
+"UpdataButtonName" = "Edit key name";
 "CannotMore10" = "Cannot exceed 10 characters";
 ///随手贴六键
 "Dinner" = "Dining";
@@ -640,7 +640,7 @@
 ///可视对讲
 "NoBound" = "Not bound";
 "SetVideoIntercomScenes" = "Set the scene of video intercom";
-"VideoIntercomDevControl" = "Video intercom equipment control";
+"VideoIntercomDevControl" = "Video intercom device control";
 "Show" = "Display";
 "Hidden" = "Hide";
 ///场景开关
@@ -736,8 +736,8 @@
 "CommonPassword" = "Common command";
 "LearnPassword" = "Learn Password";
 "PasswordArea" = "Password area";
-"CreatePassword" = "Create command";
-"NewAddPassword" = "Add a new command";
+"CreatePassword" = "Add command";
+"NewAddPassword" = "Add new command";
 "EditPassword" = "Edit command";
 "ToAirConditionerWordCannotNull" = "The words spoken to the air conditioner partner cannot be empty";
 "ExecuteResultCannotNull" = "Executing result cannot be empty";
@@ -751,8 +751,8 @@
 "AddPasswordSuccess" = "Add command successfully";
 "AddPasswordFail" = "Failed to add command";
 "PasswordAlreadyExsits" = "Command already exists";
-"UpdataPasswordSuccess" = "Modify command successfully";
-"UpdataPasswordFail" = "Failed to modify command";
+"UpdataPasswordSuccess" = "Edit command successfully";
+"UpdataPasswordFail" = "Failed to edit command";
 "ToSamrtAudioWordCannotNull" = "The command to the small speaker cannot be empty";
 "ToLearnAudioWordCannotNull" = "The command to the learning speaker cannot be empty";
 "PleaseSelectToLearnAirConditionerWord" = "Please choose command to voice assistant:";
@@ -785,7 +785,7 @@
 ///TV
 "TVOpenSpecifiedCustomKey" = "Turn on the TV at custom scene";
 "TheKeyNoLearnPleaseLearn" = "This key has not been learned, please learn first";
-"UpdataCustomKeyName" = "Modify custom key name";
+"UpdataCustomKeyName" = "Edit custom key name";
 "CustomKey" = "Custom key";
 "CustomKey%d" = "Custom key%d";
 "ProgramTable" = "Program table";
@@ -838,7 +838,7 @@
 ///场景库
 "LeastOnekeepScene" = "At least to keep one common scene";
 "Add" = "Add";
-"ScenesLibs" = "Scenes libs";
+"ScenesLibs" = "Scenes";
 "Done" = "Done";
 ///房间管理
 "RoomManagement" = "Room management";
@@ -846,14 +846,14 @@
 ///房间列表
 "Default" = "Default";
 "SelectRoom" = "Select a room";
-"NewAddRoom" = "Create a room";
+"NewAddRoom" = "Add room";
 "EditRoom" = "Edit room";
 "RoomName" = "Room name";
 "DeviceManager" = "Device management";
 "DeleteRoom" = "Delete room";
 ///AI
 "Scenes" = "Scenes";
-"AISmart" = "Schedule";
+"AISmart" = "Schedules";
 "Multilink" = "Grouping";
 "LampControlGroup" = "Lights";
 "RecommendScenes" = "Recommended scene";
@@ -864,17 +864,17 @@
 "MineLampControlGroup" = "Lights Groups";
 "ClickTopRightBtnAdd" = "Click + to add";
 ///AI智能
-"NewAddAISmart" = "Create Home";
+"NewAddAISmart" = "Add Home";
 "SetAISmartName" = "Edit Home name";
 "If" = "If";
 "Then" = "Then";
 "OneOfTheConditions" = "When 1 condition is met";
 "PleaseAddConditionAndAction" = "Please add condition and action";
 "ExecuteOnce" = "Execute once";
-"ExecuteOnceAISmartClose" = "Smart home will automatically turn off after one execution";
-"JudgmentCondition" = "Priority condition";
-"SetEffectiveTime" = "Set execution period";
-"EffectiveTime" = "Execution period";
+"ExecuteOnceAISmartClose" = "Means it will automatically turn off after one execution";
+"JudgmentCondition" = "Priority Condition";
+"SetEffectiveTime" = "Set Execution Times";
+"EffectiveTime" = "Execution times";
 "AllDays" = "The whole day";
 ///房间
 "Room0" = "Parlour";
@@ -946,17 +946,17 @@
 "%@sec" = "%@ sec";
 "PleaseSetSceneName" = "Please set scene name";
 "UpdataSceneName" = "Scene name";
-"PleaseSaveScene" = "Please save the scene firstly";
+"PleaseSaveScene" = "Please save the scene first";
 "Delay" = "Delay";
 "SceneNotExisit" = "Scene does not exist";
-"AliasManager" = "Alias management";
-"DeleteAlisa" = "Delete alisa";
-"AliasAlreadyExisit" = "The alisa already exists";
+"AliasManager" = "Alias";
+"DeleteAlisa" = "Delete alias";
+"AliasAlreadyExisit" = "The alias already exists";
 "Implemented" = "Executed";
-"NewAddScenes" = "Create scene";
+"NewAddScenes" = "Add scene";
 "Name" = "Name";
 "SetScenesName" = "Set scene name";
-"IconManager" = "Icon management";
+"IconManager" = "Icon";
 "AddAction" = "Add Action";
 "JudgingCondition(%ld)" = "Condition(%ld)";
 "SceneAlias" = "Scene Alias";
@@ -974,14 +974,14 @@
 "CustomTiming" = "Custom";
 "Execute" = "Execute";
 "PleaseSetAISmartName" = "Please set schedule name";
-"UpdataAISmartName" = "Modify schedule name";
+"UpdataAISmartName" = "Edit schedule name";
 "AddUpTriggerConditions6" = "Add up to 6 trigger conditions";
 "AddUpJudge6" = "Add up to 6 conditions";
 "AlreadyATimingConditionAndCannotBeAddedAgain" = "There is already one countdown condition, no more to add";
 "ConditionCannotAddDelay" = "The condition cannot be added with a delay";
 "EditCondition" = "Edit condition";
 "DeleteCondition" = "Delete condition";
-"PleaseSelectConditionsMet" = "Please select the condition";
+"PleaseSelectConditionsMet" = "List of conditions";
 "AISmartNotExisist" = "schedule does not exist";
 "Monday" = "Monday";
 "Tuesday" = "Tuesday";
@@ -1012,7 +1012,7 @@
 "SelectLeastDevices2" = "Select at least 2 devices";
 "Hiddened" = "Hidden";
 "PleaseSetParallelingName" = "Please set group name";
-"UpdataParallelingName" = "Modify group name";
+"UpdataParallelingName" = "Edit group name";
 "ShowDevice" = "Show device";
 "RemoveParalleling" = "Remove group";
 "HiddenDevice" = "Hide device";
@@ -1058,7 +1058,7 @@
 "AddUpDevice20" = "Add up to 20 devices";
 "AddUpDevice5" = "Add up to 5 devices";
 "LampControlGroupNotExisit" = "Light control group does not exist";
-"NewAddSLampControl" = "Create a light control";
+"NewAddSLampControl" = "Add light control";
 "SetLampControlName" = "Set light control name";
 "AddLampControDevice" = "Add light control device";
 "AddLampControSwitch" = "Add light control switch";
@@ -1068,7 +1068,7 @@
 "TheDevVerLowCannotSelect" = "The device firmware version which is too low cannot be selected";
 "AddLampControlSwitch" = "Add light control switch";
 ///灯控管理
-"LampControlManagement" = "Lights Management";
+"LampControlManagement" = "Lights";
 "SelectLampControl" = "Select light control";
 "TheLampControlGroupDevAlreadyNotExisit" = "The light control group device does not exist";
 "LampControlName" = "Light control name";
@@ -1086,20 +1086,20 @@
 "BatchAdditionAutoSelectSimilarActions" = "Batch adding will automatically select similar action";
 "LeastSelectOneAction" = "Select at least one action";
 "TheDevModelUnSupport" = "The device model does not support";
-"PleaseTurnOffAllAay24Hours" = "Please turn off whole day 24 hours firstly";
+"PleaseTurnOffAllAay24Hours" = "Please turn off whole day 24 hours first";
 ///判断条件列表
 "JudgingConditionsList" = "List of conditions";
-"TimingSelect" = "Excecution Times";
-"AlreadyAnEffectiveTimeCannotAdd" = "Cannot add more, since there is already a execution period";
+"TimingSelect" = "Execution Times";
+"AlreadyAnEffectiveTimeCannotAdd" = "Cannot add more since there is already a effective period";
 "RepeatOption" = "Please Select";
 "Custom" = "Custom";
 "TheDevHasBeenLinkageTriggerSourceCannotSelect" = "The device which has already been a linkage trigger source cannot be selected";
 ///推送通知
-"TextBroadcast" = "Text broadcast";
-"PleaseEnterBroadcastContent" = "Broadcast context";
+"TextBroadcast" = "Broadcast content";
+"PleaseEnterBroadcastContent" = "Please enter roadcast content";
 "NotifMsg" = "Notification";
-"DefaultNotif" = "Default notification";
-"PleaseNoMore20" = "Add 20 characters fields";
+"DefaultNotif" = "Notification";
+"PleaseNoMore20" = "Add 20 characters";
 ///Wi-Fi配置
 "MobileHasBeenConnectedDevWifi:%@" = "Mobile has been connected to device WiFi:%@";
 "PleaseMobileConnectDevWifiBackThePage" = "After mobile is connected to device WiFi, please return to this interface";
@@ -1115,29 +1115,29 @@
 "SecurityModeLibs" = "Security Mode Libs";
 "Camera" = "Camera";
 "AlreadyInTheAlert" = "Already on alert";
-"GuardCountdown%dSeconds" = "Guard count down %d Seconds";
+"GuardCountdown%dSeconds" = "Guard countdown %d seconds";
 "SecurityGuarding" = "Protected";
 "%@Guarding" = "%@ Guarding";
 "SecurityModeNullPleaseEdit" = "Security mode cannot be empty, please edit";
 "ExecutionFail" = "Execution failed";
 "SecurityState" = "Security Status";
 "SecurityModeEdit" = "Security mode edit";
-"CreateSecurityMode" = "Create security mode";
+"CreateSecurityMode" = "Add security mode";
 "PleaseEnterName" = "Name";
 "NameNoMore10" = "Name cannot exceed 10 characters";
 "TheModeInAlertingCannotDelete" = "The mode which is in guard cannot be deleted";
 "WhetherDeleteTheSecurityMode" = "Whether to delete the security mode?";
 "AllDayGuardCannotTurnOff" = "The all-day guard cannot be turned off";
-"PleaseEnterSecurityName" = "Security name";
-"TurnOnCountDown" = "Turn on count down";
+"PleaseEnterSecurityName" = "Security mode name";
+"TurnOnCountDown" = "Countdown";
 "EffectiveImmediately" = "Effective immediately";
-"CountDown%dSecond" = "Count down %d Second";
+"CountDown%dSecond" = "Countdown %d seconds";
 "TheModeCannotEditName" = "The name can't be edited in this mode";
 "PleaseSetSecurityModeName" = "Please set security mode name";
-"UpdataSecurityModeName" = "Modify security mode name";
+"UpdataSecurityModeName" = "Edit security mode name";
 "DeleteSecurityMode" = "Delete security mode";
-"SecurityNameAlreadyExisit" = "Security name already exists";
-"CountdownSet" = "Count down setting";
+"SecurityNameAlreadyExisit" = "Security mode name already exists";
+"CountdownSet" = "Countdown";
 "SecurityLog" = "Security logs";
 "EmptySecurityLog" = "Clear security logs";
 "AreYouSureEmptyAllSecurityLog" = "Are you sure to clear all security logs?";
@@ -1158,7 +1158,7 @@
 "Confirm" = "Confirm";
 "Delete" = "Delete";
 "Ok" = "OK";
-"%@GuardCountdown%dSec" = "%@ Guard count down %d Second";
+"%@GuardCountdown%dSec" = "%@ Guard countdown %d second";
 ///我的
 "AppDownloadQRCode" = "App download QR code";
 "NoteNick(NoMore20)" = "Comment nickname (no more than 20 characters)";
@@ -1191,7 +1191,7 @@
 "ExitAccountSuccess" = "Exit account successfully";
 "AccountHasBeenLoggedOutPleaseLogInAgain" = "Account already logged out, please sign in again";
 "ExitAccountFail" = "Failed to exit account";
-"ChnagePwd" = "Modify password";
+"ChnagePwd" = "Edit password";
 "TwoPwdsAreInconsistent" = "Two passwords are inconsistent";
 "PwdCannotContainIllegalCharacters" = "Password cannot contain illegal characters";
 "PwdAlreadyChangePleaseLoginIn" = "Password was already changed, please login in again";
@@ -1279,14 +1279,14 @@
 "%@Count" = "%@ Count";
 "DevRoomLocation" = "Device room location";
 "AssignDevTo%@？" = "Assign device to %@?";
-"UpdateDevRoomLocation" = "Modify device room location";
+"UpdateDevRoomLocation" = "Edit device room location";
 "DevMoveTo%@？" = "Move device to %@?";
 "PleaseNameForRoom" = "Please set room name";
 "SelectRoomYouWantCreate" = "Please select a room you want to create";
 "TheRoomAlreadyExisit" = "The room already exists";
 "Move" = "Move";
 "PleaseSetRoomName" = "Please set room name";
-"UpdateRoomName" = "Modify room name";
+"UpdateRoomName" = "Edit room name";
 "PleaseDeleteAfterRemoveTheRoomAllDev" = "Please delete all devices in the current room before deleting";
 "RoomManager" = "Rooms management";
 "MemberManager" = "Members management";
@@ -1375,7 +1375,7 @@
 "DeleteAndRebootCamera" = "Delete and reset camera";
 "CameraModel" = "Camera model";
 "ConnectWifi" = "Connect to WiFi";
-"WifiSignalStrength" = "WiFi signal strength";
+"WifiSignalStrength" = "Wi-Fi signal strength";
 "IPAddress" = "IP address";
 "EventRecord" = "Event record";
 "StraightRecord" = "Continuous record";
@@ -1414,7 +1414,7 @@
 "DeleteCamerWarnTips" = "After the camera is deleted, it will reset automatically. Are you sure to delete?";
 "SetCallVolume" = "Set talk volume";
 "NoPwdPleaseConfirmButton" = "If there is no password, please click OK";
-"WaitingSetWiFiInformation" = "Wait to set WiFi information";
+"WaitingSetWiFiInformation" = "Wait to set Wi-Fi information";
 "WaitStartExecutingProcess" = "Wait for the call to start the execution process.";
 "SuccessfullySavedPicture" = "Pictures saved successfully";
 "FailedSavePicture" = "Failed to save pictures";
@@ -1476,7 +1476,7 @@
 "SetLimit" = "Set limit";
 "Range0~250" = "Ranging from 0 to 250";
 "OutOfRangeValue" = "Out of range";
-"Countdown" = "Count down";
+"Countdown" = "Countdown";
 "CountdownTips1" = "When it's learning, please be patient. It will exit when learning is complete.";
 "CountdownTips2" = "Note: please do not exit when learning, otherwise it will fail.";
 "StarLearn" = "Start learning";
@@ -1491,15 +1491,33 @@
 "ExperienceChatGPT" = "Experience chatGPT";
 "ChatGPTTips" = "The experience maybe affected by network connection, please be patient.";
 //注册方式
-"EmailLogin" = "Email address login";
+"EmailLogin" = "Login";
 "Email" = "Email";
-"PhoneLogin" = "Mobiel mobile login";
-"PleaseEnterValidEmail" = "Please input correct email format";
-"EmailRegister" = "Create a account via email address";
-"PhoneRegister" = "Create a account via mobile mobile";
-"ByEmail" = "Via email address";
-"ByPhone" = "Via mobile mobile";
+"PhoneLogin" = "Login";
+"PleaseEnterValidEmail" = "Invalid Email";
+"EmailRegister" = "Create account via email";
+"PhoneRegister" = "Create account via mobile";
+"ByEmail" = "Via email";
+"ByPhone" = "Via mobile";
 "Or" = "Or";
+//电池版摄像机
+"DevReset" = "Reset device";
+"SelectWIFI" = "Select Wi-Fi";
+"WifiQrCode" = "QR of Wi-Fi";
+//语言
+"Arabic" = "Arabic";
+"Help" = "Help";
+"FAQ" = "FAQ";
+"TermsAndConditions" = "Terms and Conditions";
+"AboutUs" = "About Us";
+//引导页
+"Skip" = "Skip";
+"GuideText1" = "ONE APP FOR ALL";
+"GuideText2" = "TEACH THEM!";
+"GuideText3" = "ACCESS ANYWHERE";
+"GuideSubText1" = "One super app for all your products\nBut in a smarter way!";
+"GuideSubText2" = "Instruct your smart devices to do what you need with ready scenes";
+"GuideSubText3" = "From where you're setting, control your home and smart products";
 //更换头像
 "Album" = "Album";
 "Photograph" = "Snapshot";
@@ -1546,15 +1564,15 @@
 "PTZSpeed" = "PTZ speed";
 "CruiseMode" = "Cruise mode";
 "ZoomAndFocusButtons?" = "Zoom and focus buttons?";
-"PTZDirectionFlip" = "PTZ ditection reverse";
+"PTZDirectionFlip" = "Reverse PTZ direction";
 "PanoramicCruise" = "Panoramic cruise";
-"AlwaysLookLocationCruise" = "Always look location cruise"; 
-"PleaseConfirmDeviceFeature" = "Please confirm if this feature is available, otherwise no response even the button is pressed";
+"AlwaysLookLocationCruise" = "Location cruise frequency";
+"PleaseConfirmDeviceFeature" = "Please confirm this function is supported, otherwise no response even the button is pressed";
 "GimbalRotationSpeed" = "PTZ rotation speed";
 "SelectCruiseMode" = "Select cruise mode";
 "Horizontal360°AllRoundCare" = "Fixed cruise route. Monitoring the area in horizontal direction 360°";
-"CruiseSequentiallyAccordingFrequently" = "Following custom always look location and cruise";
-"PleaseSetAlwaysLookLocation" = "Please set always look location";
+"CruiseSequentiallyAccordingFrequently" = "Custom camera cruise frequency";
+"PleaseSetAlwaysLookLocation" = "Please set location cruise";
 "FlipUpAndDown" = "Up and down rotation";
 "FlipLeftAndRight" = "Left and right rotation";
 "CardRecordingSet" = "SD card recording settings";
@@ -1586,10 +1604,10 @@
 "CameraTimeMatchPhoneTime" = "Match camera time to cell phone time, please confirm?";
 "OpenFailed:%@" = "Turn on failure:%@";
 "CloseFailed:%@" = "Turn off failure:%@";
-"PleaseEnterWiFiName" = "Enter WiFi name";
+"PleaseEnterWiFiName" = "Enter Wi-Fi name";
 "SelectWiFi" = "Select WiFi";
-"PleaseEnterRouterWiFiName" = "Enter WiFi router name";
-"PleaseEnterWiFiPwd" = "Enter WiFi password";
+"PleaseEnterRouterWiFiName" = "Enter Wi-Fi router name";
+"PleaseEnterWiFiPwd" = "Enter Wi-Fi password";
 "SelectTimeZone" = "Select time zone";
 "DaylightSavingTimeSwitch" = "Daylight saving time switch";
 "SelectDaylightSavingTime" = "Select daylight saving time";

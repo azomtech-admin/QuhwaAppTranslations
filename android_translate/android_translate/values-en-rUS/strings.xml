@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">AZOM</string>
-    <string name="app_company">AZOM</string>
+    <string name="app_name">AZOM AI</string>
+    <string name="app_company">AZOM AI</string>
 
 
     <!-- ========================================公共 start========================================================-->
@@ -158,7 +158,7 @@
     <string name="info_name">Device name</string>
     <string name="info_position">Device location</string>
     <string name="info_icon">Device icon</string>
-    <string name="icon_update">Are you sure you want to modify the icon of the device？</string>
+    <string name="icon_update">Are you sure you want to edit the icon of the device？</string>
     <string name="info_log">Device Log</string>
     <string name="info_common_setting">General settings</string>
     <string name="info_zig_bee">ZigBee signal</string>
@@ -175,27 +175,27 @@
     <string name="info_no_zig_bee">Devices without ZigBee</string>
     <string name="device_mac_txt">Copy to the clipboard</string>
     <string name="device_copy_ok">Copied to clipboard</string>
-    <string name="replace_tip">When a device is damaged, lost or offline, you can replace it with a new one. The new device will retain the old one\'s functionalities including name, AI smart, scenes and so on</string>
-    <string name="replace_device_tip">Replaceable equipment</string>
+    <string name="replace_tip">When a device is damaged, lost or offline, you can replace it with a new one. The new device will retain the old one\'s functionalities including name, schedules, scenes and so on</string>
+    <string name="replace_device_tip">Replaceable device</string>
     <string name="replace_no_device">No replacement for now</string>
-    <string name="replace_show_tip">Note: The new device should not be added for any AI smart or scenes before replacing the old one</string>
+    <string name="replace_show_tip">Note: The new device should not be added for any schedules or scenes before replacing the old one</string>
     <string name="battery_normal">Sufficient</string>
     <string name="battery_low">Low</string>
     <string name="battery_lower">Extremely low</string>
     <string name="battery_continuous">Non battery devices</string>
     <string name="battery_charge">Please charge regularly</string>
-    <string name="update_device_name_title">Modify device name</string>
+    <string name="update_device_name_title">Edit device name</string>
     <string name="update_device_name_txt">Rename the device</string>
     <string name="dialog_delete">Delete device</string>
     <string name="dialog_delete_device_content">Are you sure to delete this device?</string>
     <string name="check_update">Check for updates</string>
-    <string name="sub_device">Sub-equipment</string>
+    <string name="sub_device">Sub-device</string>
     <!-- ========================================更多 end========================================================-->
 
-    <!-- ========================================场景 scenes start========================================================-->
+    <!-- ========================================场景 start========================================================-->
     <string name="scene_recommend">Recommended Scenes</string>
     <string name="scene_mine">Scenes(click + to add)</string>
-    <string name="scene_my">Scenes List</string>
+    <string name="scene_my">Scenes</string>
     <string name="scene_name_tv">Scene name</string>
     <string name="scene_name_input">Scene name</string>
     <string name="scene_alia">Alias</string>
@@ -206,7 +206,7 @@
     <string name="scene_dialog_title">Scene name</string>
     <string name="scene_dialog_title_sub">Please set scene name</string>
     <string name="scene_dialog_title_update">Scene name</string>
-    <string name="scene_create">Create scene</string>
+    <string name="scene_create">Add scene</string>
     <string name="scene_edit">Edit scene</string>
     <string name="scene_security_switch">Switch to</string>
     <string name="delayed">Delay</string>
@@ -218,7 +218,7 @@
     <string name="condition_list">List of conditions</string>
     <string name="related_meet_one_condition">When 1 condition is met</string>
     <string name="related_meet_all_condition">When all conditions are met</string>
-    <string name="time_trigger">Execution Period</string>
+    <string name="time_trigger">Execution Times</string>
     <string name="time_daily">Every day</string>
     <string name="time_sunday">Sunday</string>
     <string name="time_monday">Monday</string>
@@ -228,9 +228,9 @@
     <string name="time_friday">Friday</string>
     <string name="time_saturday">Saturday</string>
     <string name="time_hour">The whole day</string>
-    <string name="condition_time">Excecution Times</string>
+    <string name="condition_time">Execution Times</string>
     <string name="condition_count">Conditions cannot be more than 6</string>
-    <string name="condition_time_one">Cannot add more since there is already a execution period</string>
+    <string name="condition_time_one">Cannot add more since there is already execution time</string>
     <string name="disturb_mode">Do not disturb mode</string>
     <string name="memory">Memory function</string>
     <string name="timing">Timer</string>
@@ -254,12 +254,12 @@
     <string name="alia_add_tv">Add an alias</string>
     <string name="alia_add_not">No alias added</string>
     <string name="alia_dialog_title">Scene alias</string>
-    <string name="alia_dialog_title_sub">Create an alias for the scene</string>
+    <string name="alia_dialog_title_sub">Add scene alias</string>
     <string name="alia_dialog_delete_title">Delete alias</string>
     <string name="alia_dialog_delete_content">Are you sure you want to delete this alias?</string>
     <string name="dialog_delete_scene">Delete scenes</string>
     <string name="dialog_delete_scene_content">Are you sure you want to delete this scene？</string>
-    <string name="edit_scene">Edit the scene</string>
+    <string name="edit_scene">Edit scene</string>
     <string name="choose_scene">Select the scene</string>
     <string name="scene_at_least_one">Select at least one scene</string>
     <string name="scene_choose">Please select the scene</string>
@@ -283,7 +283,7 @@
     <string name="search_again_tv">Click Search again to add more devices</string>
     <string name="search_time">120s</string>
     <string name="search_time_number">%ds</string>
-    <string name="search_help">Cannot find the device? Click to read help</string>
+    <string name="search_help">Cannot find the device?</string>
     <string name="search_no_permission">You are not an administrator and cannot add devices!</string>
     <string name="search_bind_gateway_first">Please bind the gateway</string>
     <string name="search_bind_gateway_click">Primary gateway is not bound, please bind it first</string>
@@ -296,7 +296,7 @@
 
     <!-- ========================================家庭管理 start========================================================-->
     <string name="home_manager">Manage Home</string>
-    <string name="home_create">Create Home</string>
+    <string name="home_create">Add Home</string>
     <string name="home_edit">Edit Home</string>
     <string name="home_edit_dialog_title">Set home name</string>
     <string name="home_edit_dialog_content">Edit home name</string>
@@ -312,7 +312,7 @@
     <string name="home_device_count">Total devices</string>
     <string name="home_have_delete">Home has been deleted</string>
     <string name="home_not_bind_gateway">Unbound</string>
-    <string name="home_delete_fail">Can't delete the only home</string>
+    <string name="home_delete_fail">Can\'t delete the only home</string>
     <string name="home_input_name">Enter home name</string>
     <string name="online">Online</string>
     <string name="unbound">Offline</string>
@@ -346,8 +346,8 @@
     <string name="member_time_expired_edit">Expiration time</string>
     <string name="member_set_time">Set the remaining time</string>
     <string name="member_no_update">No change</string>
-    <string name="member_update">Modify member</string>
-    <string name="member_update_content">Are you sure you want to modify this member？</string>
+    <string name="member_update">Edit member</string>
+    <string name="member_update_content">Are you sure you want to edit this member？</string>
     <string name="hour">hour</string>
     <string name="day">day</string>
     <string name="add_member_tip">Method 1: QR code</string>
@@ -401,7 +401,7 @@
     <string name="edit_room_dialog">Rename the room</string>
     <string name="delete_room">Delete room</string>
     <string name="delete_room_dialog">Are you sure you want to delete the room?</string>
-    <string name="delete_room_tip">Please remove all equipments in the current room before they are deleted</string>
+    <string name="delete_room_tip">Please remove all devices in the current room before they are deleted</string>
     <string name="room_name">Room name</string>
     <string name="device_manager">Device management</string>
     <string name="device_manager_tip">There are no devices to manage</string>
@@ -598,7 +598,7 @@
     <string name="security">Security</string>
     <string name="mine">Account</string>
     <string name="scene">Scenes</string>
-    <string name="auto">Schedule</string>
+    <string name="auto">Schedules</string>
     <string name="multi_link">Grouping</string>
     <string name="group">Lights</string>
 
@@ -608,7 +608,7 @@
     <string name="bind_tip">Click top right corner \'+\' to add</string>
     <string name="home_tab_device">Devices</string>
     <string name="simple_mode">Simple Mode</string>
-    <string name="no_bind_gateway">Please bind the gateway</string>
+    <string name="no_bind_gateway">Primary gateway is not bound</string>
     <string name="bind">Scan to Bind</string>
     <string name="do_ok">Done</string>
     <string name="move">Move</string>
@@ -687,12 +687,12 @@
     <string name="security_status">Security Status</string>
     <string name="security_edit">Edit</string>
     <string name="security_edit_cancel">Cancel</string>
-    <string name="security_create">Create a security</string>
-    <string name="security_edit_title">Edit the security</string>
+    <string name="security_create">Add security mode</string>
+    <string name="security_edit_title">Edit security mode</string>
     <string name="security_no_device">No security devices was added</string>
-    <string name="security_name_tv">Security name</string>
-    <string name="security_name_input">Input security name</string>
-    <string name="security_name_time_tv">Create security countdown</string>
+    <string name="security_name_tv">Security mode name</string>
+    <string name="security_name_input">Enter security mode name</string>
+    <string name="security_name_time_tv">Add security countdown</string>
     <string name="security_name_time_tv_edit">Edit security countdown</string>
     <string name="security_name_time_soon">Effective immediately</string>
     <string name="security_name_time_five">5s</string>
@@ -701,10 +701,10 @@
     <string name="security_name_time_sixty">60s</string>
     <string name="security_name_time_delay">%d seconds later, it\'s effective</string>
     <string name="security_can_not_edit_name">The name cannot be edited in this mode</string>
-    <string name="security_dialog_title">Input security name</string>
+    <string name="security_dialog_title">Enter security mode name</string>
     <string name="security_dialog_subtitle">Name for security</string>
-    <string name="security_dialog_title_edit">Modify security name</string>
-    <string name="security_dialog_subtitle_edit">Edit security name</string>
+    <string name="security_dialog_title_edit">Edit security mode name</string>
+    <string name="security_dialog_subtitle_edit">Edit security mode name</string>
     <string name="security_toast_length">Length can\'t be more than 10 digits</string>
     <string name="security_switch_other">Please switch to other modes</string>
     <string name="security_delete">Delete security</string>
@@ -784,15 +784,15 @@
     <string name="panel_out_home_open">Exit home key is on</string>
     <string name="panel_sleeping_open">Sleep key is on</string>
     <string name="panel_romance_open">Romance key is on</string>
-    <string name="update_bound_scene">Modify bound scene</string>
+    <string name="update_bound_scene">Edit bound scene</string>
     <string name="update_bound_scene_tip">Are you sure to delete the binding of this key?</string>
     <string name="bounding">Bound</string>
     <string name="unbind">Not bound</string>
     <string name="sure_bounding_tip">This key is not bound to the scene. Do you want to bind it?</string>
     <string name="bounding_success">Bound successfully</string>
     <string name="code_27">This device is already associated to one scene and cannot be bound to other scenes.</string>
-    <string name="update_name">Modify name</string>
-    <string name="update_name_key">Modify key name</string>
+    <string name="update_name">Edit name</string>
+    <string name="update_name_key">Edit key name</string>
     <!-- ******************************* 场景开关、随手贴、可视对讲 end *****************************************-->
 
     <!-- ******************************* 窗帘设置 start *****************************************-->
@@ -894,7 +894,7 @@
     <string name="sweeper_status_cleaning">Cleaning</string>
     <string name="sweeper_status_sleeping">Dormancy</string>
     <string name="sweeper_error">Malfunction</string>
-    <string name="sweeper_error_tip">Equipment failure, inoperable</string>
+    <string name="sweeper_error_tip">Device failure, not working</string>
     <string name="sweeper_error_0">Sweeping edge malfunctioned</string>
     <string name="sweeper_error_1">Sweeping centre malfunctioned</string>
     <string name="sweeper_error_2">Left wheel malfunctioned</string>
@@ -962,7 +962,7 @@
     <string name="body_set_study_content">Note: 1.it can\'t exit in process of learning. 2.it should be no person in the environment.</string>
     <string name="body_study_tip">When it\'s learning, please be patient. \nIt will exit when learning is complete.</string>
     <string name="body_study_tip2">Note: please do not exit when learning,\n otherwise it will fail.</string>
-    <string name="body_set_study_tip">Interruption of learning due to your withdrawal \nIf you need to learn, please re-enter</string>
+    <string name="body_set_study_tip">Learning stopped due to your withdrawal \nYou can re-enter</string>
     <string name="body_set_study_success">Learning succeeded</string>
     <string name="body_set_study_fail">Learning failed</string>
     <string name="body_set_studying">Learning, cannot send instructions repeatedly</string>
@@ -1000,7 +1000,7 @@
     <string name="air_no_add_tip">No remote has been added yet</string>
     <string name="air_add_tip">Add remote control</string>
     <string name="air_conditioner">AC</string>
-    <string name="timer_set_title">Set count down time</string>
+    <string name="timer_set_title">Set Countdown time</string>
     <string name="timer_set_tip">1 hour later, the air conditioner will be turned off.</string>
     <string name="timer_cancel">Exit</string>
     <string name="timer_start_tv">Open timing</string>
@@ -1030,7 +1030,7 @@
     <string name="command_delete_content">Are you sure you want to delete this command?</string>
     <string name="tv_ch">CH</string>
     <string name="tv_vol">VOL</string>
-    <string name="custom_key">Modify customized key name</string>
+    <string name="custom_key">Edit customized key name</string>
     <string name="tv_title">Program table</string>
     <string name="tv_tip">Please set the channel number first.(no more than 3 digits)</string>
     <string name="tv_input_tip">no more than 3 digits</string>
@@ -1064,8 +1064,8 @@
     <string name="speak_common_word">Common command</string>
     <string name="speak_study_word">Learn</string>
     <string name="speak_word_area">Password area</string>
-    <string name="speak_word_create">Create command</string>
-    <string name="speak_word_create_new">Add a new command</string>
+    <string name="speak_word_create">Add command</string>
+    <string name="speak_word_create_new">Add new command</string>
     <string name="speak_word_edit">Edit command</string>
     <string name="command_edit">Edit command</string>
     <string name="command_delete">Delete command</string>
@@ -1115,8 +1115,8 @@
     <string name="device_id">Device ID</string>
     <string name="wifi_name">Wi-Fi name</string>
     <string name="wifi_password">Wi-Fi password</string>
-    <string name="tip_device_id">Please input device id</string>
-    <string name="tip_wifi_name">Please input a Wi-Fi name</string>
+    <string name="tip_device_id">Please enterdevice id</string>
+    <string name="tip_wifi_name">Please entera Wi-Fi name</string>
     <string name="tip_wifi_password">Enter Wi-Fi password</string>
     <string name="monitor_code">QR code of Wi-Fi information</string>
     <string name="monitor_code_tip">The QR code is facing the camera at 15&#8211;25cm, and the device will scan and make a sound.</string>
@@ -1134,8 +1134,8 @@
     <string name="last_step">Previous</string>
     <string name="monitor_step_one">1、After power on the device, please long press Reset button if blue LED is not flashing. Wait for a moment after hear a \'Ding\' sound, and the device will navigate a cruise then reset process is complete.</string>
     <string name="monitor_step_twe">2、Open Settings then select WLAN, connect the mobile wireless network to the device hotspot</string>
-    <string name="monitor_step_three">3、Select device WiFi \'IPCXX\' and default password:</string>
-    <string name="monitor_step_four">4、Keep the mobile is connected to device WiFi in process of adding the device</string>
+    <string name="monitor_step_three">3、Select device Wi-Fi \'IPCXX\' and default password:</string>
+    <string name="monitor_step_four">4、Keep the mobile is connected to device Wi-Fi in process of adding the device</string>
     <string name="monitor_step_five">5、After it\'s connected, return to APP</string>
     <string name="monitor_light_flash">Go to setting</string>
     <string name="monitor_network_config">configure network</string>
@@ -1232,7 +1232,7 @@
     <string name="reset_camera_tip">Will clear all alarm message record of the camera</string>
     <string name="camera_type">Camera model</string>
     <string name="wifi_connected">Connected WiFi</string>
-    <string name="wifi_signal">WiFi signal strength</string>
+    <string name="wifi_signal">Wi-Fi signal strength</string>
     <string name="ip">IP address</string>
     <string name="tf_status">TF status</string>
     <string name="tf_leaf">Remaining capacity</string>
@@ -1251,9 +1251,9 @@
     <string name="motion_human">figure</string>
     <string name="current_play_time">current playing time:</string>
     <string name="playback_video">Video playback</string>
-    <string name="wifi_tip3">Please turn on wifi and connect to a valid network first</string>
+    <string name="wifi_tip3">Please turn on Wi-Fi and connect to a valid network first</string>
     <string name="wifi_tip4">Please select a valid WiFi.</string>
-    <string name="wifi_tip_ipc">Please choose wifi starting with IPC</string>
+    <string name="wifi_tip_ipc">Please choose Wi-Fi starting with IPC</string>
     <string name="no_data">No data</string>
     <string name="monitor_id_valid">invalid device id</string>
     <string name="japanese">Japanese</string>
@@ -1262,7 +1262,7 @@
     <string name="synchronous_success">Synchronization succeeded</string>
     <string name="deviceSetting_Time_zone_setting">Time zone setting</string>
     <!-- ******************************* 监控 end *****************************************-->
-    
+
     <string name="page_one_title">ONE APP FOR ALL</string>
     <string name="page_one_tip_one">One super app for all your products \nBut in a smart way!</string>
     <string name="page_twe_title">TEACH THEM</string>
@@ -1278,34 +1278,34 @@
     <string name="ac_not_matching">Air conditioning companion not matched!</string>
     <string name="select_one_must">Please select one</string>
     <string name="security_delete_content">Are you sure you want to delete this security alert?</string>
-    <string name="security_countdown_content">%s count down %d second</string>
+    <string name="security_countdown_content">%s Countdown %d second</string>
     <string name="security_arm">Security alert change</string>
     <string name="security_auto_arm">Custom Alarm</string>
     <string name="security_home_arm">Returning Alarm</string>
     <string name="security_out_arm">Leaving Alarm</string>
 
     <!-- ******************************* 自动化 start *****************************************-->
-    <string name="auto_my">Schedule</string>
-    <string name="auto_create">Create schedule</string>
+    <string name="auto_my">Schedules</string>
+    <string name="auto_create">Add schedule</string>
     <string name="auto_edit">Edit schedule</string>
     <string name="auto_judge">Sub Conditions</string>
     <string name="auto_add">Click + to add</string>
     <string name="auto_delete_title">Delete schedule</string>
     <string name="auto_delete_content">Are you sure you want to delete it?</string>
     <string name="auto_tv_tip">Schedule name</string>
-    <string name="auto_tv_tip1">Please edit schedule name</string>
+    <string name="auto_tv_tip1">Please set schedule name</string>
     <string name="auto_tv_if">If:</string>
     <string name="auto_tv_then">Then:</string>
     <string name="auto_do_once">Execute Once?</string>
     <string name="auto_do_once_tip">Means it will be automatically turned off after one execution.</string>
     <string name="auto_set_condition">Priority Conditions</string>
-    <string name="auto_set_active">Excecution Period</string>
+    <string name="auto_set_active">Execution Period</string>
     <string name="auto_set_active_all">The whole day</string>
-    <string name="auto_set_timing">Excecution Times</string>
+    <string name="auto_set_timing">Execution Times</string>
     <string name="auto_set_timing_custom">Custom Days</string>
     <string name="auto_set_timing_loop">Cycle Daily</string>
     <string name="auto_set_time">Set Time</string>
-    <string name="auto_time_1">Excecution Times</string>
+    <string name="auto_time_1">Execution Times</string>
     <string name="auto_set_time_item">Custom</string>
     <string name="auto_set_time_loop">Cycle Daily</string>
     <string name="auto_set_time_loop_tip">Cycle interval</string>
@@ -1314,9 +1314,9 @@
     <string name="auto_timing_limit">There is already a countdown condition</string>
     <string name="auto_time">min</string>
     <string name="auto_time_real">%s min</string>
-    <string name="push_tip_title">Notification message</string>
+    <string name="push_tip_title">Notification</string>
     <string name="push_tip_title_2">Text broadcast</string>
-    <string name="push_tip">Default notification</string>
+    <string name="push_tip">Notification</string>
     <string name="push_count">0/20</string>
     <string name="push_content">Broadcast content</string>
     <!-- ******************************* 自动化 end *****************************************-->
@@ -1358,7 +1358,7 @@
     <string name="multi_name_set">Please set group name</string>
     <string name="multi_device_add_tv">Add group device</string>
     <string name="multi_device_add_none">No device added</string>
-    <string name="multi_create">Create a group</string>
+    <string name="multi_create">Add group</string>
     <string name="multi_edit">Edit group</string>
     <string name="multi_delete">Delete group</string>
     <string name="multi_delete_content">Are you sure to delete this?</string>
@@ -1369,12 +1369,12 @@
     <string name="hide_device">Hide devices</string>
     <string name="relate_mine">Linkages (Please click + to add)</string>
     <string name="relate_mine_one">Linkages</string>
-    <string name="related_create">Create a linkage</string>
+    <string name="related_create">Add linkage</string>
     <string name="related_edit">Edit linkage</string>
     <string name="related_delete">Delete Linkage</string>
     <string name="related_delete_content">Are you sure to delete this?</string>
     <string name="related_name_tip">Interaction name</string>
-    <string name="related_name_set">Please setup linkage name</string>
+    <string name="related_name_set">Please set linkage name</string>
     <string name="related_add_resource_title">Add trigger source</string>
     <string name="related_add_resource">Add trigger source：</string>
     <string name="related_no_resource">Trigger source not added</string>
@@ -1394,7 +1394,7 @@
     <string name="have_selected_tip">The device type is inconsistent with the selected one, please select again</string>
     <!-- ******************************* 多联 end *****************************************-->
     <!-- ******************************* 网关列表 start *****************************************-->
-    <string name="gateway_list">Gateway list</string>
+    <string name="gateway_list">Gateways list</string>
     <string name="gateway_list_choose">Select gateway</string>
     <string name="gateway_main">Primary gateway</string>
     <string name="gateway_main_sub">Sub-gateway</string>
@@ -1409,11 +1409,11 @@
 
     <!-- ******************************* 技能组 start *****************************************-->
     <string name="group_setting">Edit light control</string>
-    <string name="group_manager">Lights Management</string>
+    <string name="group_manager">Lights</string>
     <string name="group_dialog_delete_title">Delete light control</string>
     <string name="group_dialog_delete_content">Are you want to delete this?</string>
     <string name="group_mine">Lights Groups</string>
-    <string name="group_create">Create light control</string>
+    <string name="group_create">Add light control</string>
     <string name="group_dialog_title_sub">Set Name</string>
     <string name="group_dialog_title_sub_update">Set light control name</string>
     <string name="group_name">Light control name</string>
@@ -1441,20 +1441,48 @@
     <string name="auto_control_must_have">control must have one</string>
     <string name="auto_have_deleted">schedule have been deleted</string>
 
-    <string name="modify_account">Modify account</string>
+    <string name="modify_account">Edit account</string>
     <string name="modify_account_new">New account</string>
     <string name="modify_account_new_again">Confirm new account</string>
-    <string name="modify_account_different">The account input twice are inconsistent</string>
-    <string name="modify_password">Modify password</string>
+    <string name="modify_account_different">The account entertwice are inconsistent</string>
+    <string name="modify_password">Edit password</string>
     <string name="modify_password_old">Please enter original password</string>
     <string name="modify_password_new">Please enter a new password</string>
     <string name="modify_password_new_again">Confirm new password again</string>
 
     <string name="ac_tv_pair">PAIR-TV</string>
-    <string name="ac_feedback">Feedback words</string>
-    <string name="ac_feedback_tip">Please select the air conditioner companion feedback word</string>
-    <string name="ac_feedback_english">English (default)</string>
-    <string name="ac_feedback_arabic">Arabic</string>
-    <string name="ac_feedback_di">Reply\&quot;drop\&quot;</string>
-    <string name="ac_feedback_mute">Mute</string>
+    <string name="ac_feedback">Feedback voice</string>
+    <string name="ac_feedback_tip">Please select feedback voice</string>
+
+    <string name="info_title">User Info</string>
+    <string name="info_avatar">Avatar</string>
+    <string name="info_nickname">Nickname</string>
+
+    <string name="detection_move_sensitivity_highest">highest</string>
+    <string name="detection_move_sensitivity_high">high</string>
+    <string name="detection_move_sensitivity_normal">normal</string>
+    <string name="detection_move_sensitivity_low">low</string>
+    <string name="detection_move_sensitivity_lowest">lowest</string>
+    <string name="opt_fail">Operation failed</string>
+    <string name="monitor_ptz_base_set">Basic settings</string>
+    <string name="monitor_ptz_set_zoom">Zoom and focus buttons</string>
+    <string name="monitor_ptz_set_zoom_content">Please confirm this function is available, otherwise no response even the button is pressed</string>
+    <string name="monitor_ptz_set_rote">Reverse PTZ direction</string>
+    <string name="monitor_ptz_set_speed">PTZ speed</string>
+    <string name="monitor_ptz_set_speed_value">Level %d</string>
+    <string name="monitor_info">Device information</string>
+    <string name="monitor_network_info">Network information</string>
+    <string name="monitor_connect_new_wifi">Connect to new WiFi</string>
+    <string name="monitor_time">Daylight saving time</string>
+    <string name="monitor_alexa">Alexa service authorization</string>
+    <string name="monitor_wifi_list">Wi-Fi list</string>
+    <string name="monitor_wifi_connected">The Wi-Fi currently connected to the device is \n%s</string>
+    <string name="time_germany">Germany</string>
+    <string name="time_netherlands">Netherlands</string>
+    <string name="time_poland">Poland</string>
+    <string name="time_iran">Iran</string>
+    <string name="time_israel">Palestine</string>
+    <string name="time_greenland">Greenland</string>
+    <string name="time_washington">Washington</string>
+    <string name="time_canberra">Canberra</string>
 </resources>
