@@ -148,7 +148,7 @@
 "DeleteFamily" = "حذف المنزل";
 "AreYouSureDeleteTheFamily" = "هل أنت متأكد من رغبتك في حذف هذا المنزل؟";
 ///庭管理
-"NewAddFamily" = "قم ببناء منزل جديد";
+"NewAddFamily" = "إضافة منزل جديد";
 "EditFamily" = "تعديل المنزل";
 "FamilyName" = "اسم المنزل";
 "SetFamilyName" = "تعيين اسم المنزل";
@@ -1080,7 +1080,7 @@
 "SyscFail" = "فشلت المزامنة";
 "GwVerLowUnSupportTheFunction" = "إصدار البرنامج الثابت للبوابة منخفض جدًا، ولا يدعم هذه الوظيفة";
 ///添加动作
-"SecurityWarnChange" = "تغيير تنبيه الأمان";
+"SecurityWarnChange" = "تغيير وضع الأمان";
 "ExecuteAScene" = "تنفيذ مشهد";
 "AddUpDevice6" = "أضف ما يصل إلى 6 أجهزة";
 "SelectActionType" = "حدد نوع الإجراء";
@@ -1113,7 +1113,7 @@
 "CurrentMainGwVerLowPleaseUpgrade" = "إصدار البرنامج الثابت للبوابة الرئيسية الحالي منخفض جدًا، يرجى التحديث";
 "HasBeenSacnGwVerLowPleaseUpgrade" = "إصدار البرنامج الثابت للبوابة الذي تم فحصه منخفض جدًا، يرجى التحديث";
 ///安防
-"SecurityModeLibs" = "الأوضاع الأمنية";
+"SecurityModeLibs" = "أوضاع الأمان";
 "Camera" = "الكاميرا";
 "AlreadyInTheAlert" = "في حالة تأهب بالفعل";
 "GuardCountdown%dSeconds" = "العد التنازلي للحماية %d ثانية";
@@ -1150,9 +1150,9 @@
 "SecurityMode" = "وضع الأمان";
 "SecurityStatus" = "حالة الأمان";
 "SecurityLog" = "سجلات الأمان";
-"SelfAlert" = "إنذار مخصص";
-"HomeAlert" = "إنذار العودة";
-"LeaveHomneAlert" = "إنذار المغادرة";
+"SelfAlert" = "وضع مخصص";
+"HomeAlert" = "وضع العودة";
+"LeaveHomneAlert" = "وضع المغادرة";
 "UnderGuard" = "تحت الحماية";
 "Edit" = "تعديل";
 "Cancel" = "إلغاء";

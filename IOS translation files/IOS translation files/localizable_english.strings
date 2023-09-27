@@ -1079,7 +1079,7 @@
 "SyscFail" = "Synchronization failed";
 "GwVerLowUnSupportTheFunction" = "Gateway firmware version is too low, it does not support this function";
 ///添加动作
-"SecurityWarnChange" = "Security alert change";
+"SecurityWarnChange" = "Change security mode";
 "ExecuteAScene" = "Execute a scene";
 "AddUpDevice6" = "Add up to 6 devices";
 "SelectActionType" = "Select action type";
@@ -1112,7 +1112,7 @@
 "CurrentMainGwVerLowPleaseUpgrade" = "The current main gateway firmware version is too low, please update";
 "HasBeenSacnGwVerLowPleaseUpgrade" = "The scanned gateway firmware version is too low, please update";
 ///安防
-"SecurityModeLibs" = "Security Mode Libs";
+"SecurityModeLibs" = "Security Modes";
 "Camera" = "Camera";
 "AlreadyInTheAlert" = "Already on alert";
 "GuardCountdown%dSeconds" = "Guard countdown %d seconds";
@@ -1149,9 +1149,9 @@
 "SecurityMode" = "Security Mode";
 "SecurityStatus" = "Security state";
 "SecurityLog" = "Security Logs";
-"SelfAlert" = "Custom Alarm";
-"HomeAlert" = "Returning Alarm";
-"LeaveHomneAlert" = "Leaving Alarm";
+"SelfAlert" = "Custom Mode";
+"HomeAlert" = "Returning Mode";
+"LeaveHomneAlert" = "Leaving Mode";
 "UnderGuard" = "Guarded";
 "Edit" = "Edit";
 "Cancel" = "Cancel";
