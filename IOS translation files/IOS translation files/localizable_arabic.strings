@@ -1629,3 +1629,11 @@
 "FacebackDi" = "صوت ضغطة زر فقط";
 "FacebackWord" = "صوت الأوامر";
 "Mute" = "كتم الصوت";
+//修改密码
+"VerificationCodeError" = "Verfication code is incorrective";
+//九安摄像机录象模式
+"BestRecording" = "Best recording";
+"BestPowerSaving" = "Best power saving";
+"WorkMode1" = "1. The device keeps recording continuously until when the battery level drops below 50, then it automatically switches to the best recording mode. When the battery level rises to 80 or above, it resumes recording continuously. Changing modes consumes more power and is suggested when it's attached to extenal power supply.";
+"WorkMode2" = "2. When a moving object is detected, it will keep recording continuously until no movement ";
+"WorkMode3" = "3. Record a short video (60 seconds) when a moving object is detected";
