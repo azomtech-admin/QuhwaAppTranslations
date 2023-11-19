@@ -1629,37 +1629,37 @@
 "FacebackWord" = "Feedback voice";
 "Mute" = "Mute";
 //修改密码
-"VerificationCodeError" = "Verfication code is incorrective";
+"VerificationCodeError" = "Incorrect code";
 //九安摄像机录象模式
-"BestRecording" = "Best recording";
-"BestPowerSaving" = "Best power saving";
-"WorkMode1" = "1. The device keeps recording continuously until when the battery level drops below 50, then it automatically switches to the best recording mode. When the battery level rises to 80 or above, it resumes recording continuously. Changing modes consumes more power and is suggested when it's attached to extenal power supply.";
-"WorkMode2" = "2. When a moving object is detected, it will keep recording continuously until no movement ";
-"WorkMode3" = "3. Record a short video (60 seconds) when a moving object is detected";
+"BestRecording" = "Continuous recording";
+"BestPowerSaving" = "Recording for power saving";
+"WorkMode1" = "1. The device records continuously until the battery level drops below 50, then it automatically switches to power-saving recording mode. When the battery level rises to 80 or above, it resumes continuous recording. Changing modes consumes more power and is suggested when connected to an external power source.";
+"WorkMode2" = "2. When a moving object is detected, it records continuously until the movement disappears.";
+"WorkMode3" = "3. Records a short video (60 seconds) when a moving object is detected.";
 //家庭位置
 "FamilyLocation" = "Home location";
-"SearchKeyWord" = "Search key word";
+"SearchKeyWord" = "Search keyword";
 "Country" = "Country";
 "Province" = "Province";
 "City" = "City";
 "District" = "District";
-"PleaseFillAddressSave" = "Please fill in complete address and then save";
-"PleaseSelectCountry" = "Please select country";
-"PleaseSelectProvince" = "Please select province";
-"PleaseSelectCity" = "Please select city";
+"PleaseFillAddressSave" = "Enter complete address and save";
+"PleaseSelectCountry" = "Select the country";
+"PleaseSelectProvince" = "Select the province";
+"PleaseSelectCity" = "Select the city";
 //天气条件
 "Humidity" = "Humidity";
 "Weather" = "Weather";
 "WeatherChange" = "Weather change";
 "WeatherChangeRoomOut" = "Outdoor weather change";
-"MeetCondition" = "Meet conditions";
-"PleaseSelectOnceMeetCondition" = "Please select one the condition is met";
-"WhenMeetAnyOneCondition" = "When any condiction is met";
+"MeetCondition" = "Conditions";
+"PleaseSelectOnceMeetCondition" = "Please select a condition";
+"WhenMeetAnyOneCondition" = "When any condition is met";
 "WhenMeetAllCondition" = "When all conditions are met";
 "CurrentCity" = "Current city";
-"LessThan" = "Lower than";
-"EqualTo" = "Equal to ";
-"GreaterThan" = "Higer than";
+"LessThan" = "Less than";
+"EqualTo" = "Equal to";
+"GreaterThan" = "Greater than";
 "Dry" = "Dry";
 "Comfort" = "Comfortable";
 "Damp" = "Moist";
