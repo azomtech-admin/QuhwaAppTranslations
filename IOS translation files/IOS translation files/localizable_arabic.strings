@@ -1655,8 +1655,8 @@
 "WeatherChangeRoomOut" = "تغير الطقس في الخارج";
 "MeetCondition" = "شروط التنفيذ";
 "PleaseSelectOnceMeetCondition" = "يرجى اختيار شرط";
-"WhenMeetAnyOneCondition" = "عند تحقق شرط واحد;
-"WhenMeetAllCondition" = "عند تحقق جميع الشروط;
+"WhenMeetAnyOneCondition" = "عند تحقق شرط واحد";
+"WhenMeetAllCondition" = "عند تحقق جميع الشروط";
 "CurrentCity" = "المدينة الحالية";
 "LessThan" = "أقل من";
 "EqualTo" = "يساوي ";
