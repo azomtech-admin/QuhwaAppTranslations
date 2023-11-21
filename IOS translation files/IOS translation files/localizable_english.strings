@@ -1677,3 +1677,6 @@
 "SmallWindLevel" = "Level 0 ~ Level 2";
 "MediumWindLevel" = "Level 3 ~ Level 5";
 "StrongWindLevel" = "Level 6 or above";
+"SetFamilyLocation" = "Set home location";
+"PleaseGotoEditFamily" = "Please set home location on 'Edit Family‘";
+"GoSet" = "Go to set";
