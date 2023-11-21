@@ -1678,3 +1678,6 @@
 "SmallWindLevel" = "المستوى 0 ~ المستوى 2";
 "MediumWindLevel" = "المستوى 3 ~ المستوى 5";
 "StrongWindLevel" = "المستوى 6 أو أعلى";
+"SetFamilyLocation" = "Set home location";
+"PleaseGotoEditFamily" = "Please set home location on 'Edit Family‘";
+"GoSet" = "Go to set";
