@@ -1680,3 +1680,25 @@
 "SetFamilyLocation" = "Set home location";
 "PleaseGotoEditFamily" = "Please set home location on 'Edit Family‘";
 "GoSet" = "Go to set";
+//共享设备
+"ShareDev" = "Share device";
+"DevShare" = "Device sharing";
+"PleaseEnterShareAccount" = "Please enter the account";
+"AccountCanNotNull" = "Account can't be null";
+"DevShareInviteSendSuccess" = "Sending device sharing succeeded";
+"DevShareInviteSendFail" = "Sending device sharing failed";
+"ShareAcountNotExist" = "The account to be shared with does not exist";
+"ShareDevNotExist" = "The device to be shared does not exist";
+"ShareDevNotCanShareSelf" = "The device can't be shared to yourself";
+"ShareDevNotCanShareFamilyMember" = "The device can't be shared to family member";
+"DevUnSupportShare" = "The device can't be shared";
+"TheAccountIsAlreadyShareMemberCannotInviteAgain" = "The account is already shared member, can't be invited again";
+"CancelDevShareSuccess" = "Device sharing was canceled";
+"CancelDevShareFail" = "Failed to cancel device sharing";
+"CancelDevShare" = "Cancel device sharing";
+"CancelDevShareWillDeleteAllShareMember" = "After cancel device sharing, all shared accounts will be deleted, would you like to cancel device sharing?";
+"CancelDevShareWillDeleteTheShareMember" = "After cancel device sharing, the shared account will be deleted, would you like to cancel device sharing?";
+"ShareMember" = "Shared accounts";
+"Rejected" = "Rejected";
+"Expired" = "Expired";
+"Cancelled" = "Cacelled";
