@@ -1528,4 +1528,39 @@
     <string name="get_location">Get home location</string>
     <string name="get_location_content">Please edit home to set the home location</string>
     <string name="to_set">set up</string>
+
+    <string name="permission_tip">App does not have access to %s.Certain features may be unavailable.Please go to settings and allow access.</string>
+    <string name="permission_camera">Camera</string>
+    <string name="permission_alarm_clock">Alarm clock</string>
+    <string name="permission_alarm_location">Location</string>
+    <string name="permission_alarm_record">Microphone</string>
+    <string name="permission_alarm_write">Files and documents</string>
+    <string name="permission_notification">App requires notifications permission to notify you, please allow it in the settings</string>
+
+    <string name="share_device">Device sharing</string>
+    <string name="share_device_tip">Please enter the account</string>
+    <string name="share_device_push">Sending device sharing succeeded</string>
+    <string name="share_device_fail_0">The account to be shared with does not exist</string>
+    <string name="share_device_fail_1">The device to be shared does not exist</string>
+    <string name="share_device_fail_2">The invitation message has been sent and is waiting for the other party\'s approval.</string>
+    <string name="share_device_fail_3">The device can\'t be shared to yourself</string>
+    <string name="share_device_fail_4">The device can\'t be shared to family member</string>
+    <string name="share_device_fail_5">No device sharing message sent</string>
+    <string name="share_device_fail_6">The device can\'t be shared</string>
+    <string name="share_device_fail_7">The device has been shared</string>
+    <string name="share_device_2">Share device</string>
+    <string name="msg_type_17">%s shares %s device with you</string>
+    <string name="tv_share_user">Shared accounts</string>
+    <string name="share_delete_user_title">Delete shared members</string>
+    <string name="share_delete_user_content">Are you sure you want to delete the shared member?</string>
+    <string name="share_delete_device_title">Delete shared device</string>
+    <string name="share_delete_device_content">Are you sure you want to delete the shared device?</string>
+    <string name="has_reject">Rejected</string>
+    <string name="has_expired">Expired</string>
+    <string name="has_cancelled">Cancelled</string>
+    <string name="share_member">%d people</string>
+    <string name="share_device_room_name">Share device</string>
+    <string name="no_opt">Inoperable</string>
+    <string name="share_device_no_opt">This is a shared device and cannot be operated.</string>
+    <string name="share_device_fail_33">The gateway version is low and the device cannot be shared.</string>
 </resources>
