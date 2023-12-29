@@ -1528,4 +1528,39 @@
     <string name="get_location">الحصول على موقع المنزل</string>
     <string name="get_location_content">الرجاء تحرير المنزل لتحديد موقع المنزل</string>
     <string name="to_set">إعداد</string>
+    <string name="permission_tip">لا يحصل التطبيق على إمكانية الوصول إلى %s. قد تكون بعض الميزات غير متاحة. الرجاء الانتقال إلى الإعدادات والسماح بالوصول.</string>
+
+<string name="permission_camera">الكاميرا</string>
+<string name="permission_alarm_clock">تنبيهات</string>
+<string name="permission_alarm_location">الموقع</string>
+<string name="permission_alarm_record">الميكروفون</string>
+<string name="permission_alarm_write">الملفات والوثائق</string>
+<string name="permission_notification">يتطلب التطبيق إذن الإشعارات لتنبيهك، الرجاء السماح به في الإعدادات</string>
+
+<string name="share_device">مشاركة الجهاز</string>
+<string name="share_device_tip">الرجاء إدخال بريد المستخدم</string>
+<string name="share_device_push">تم إرسال مشاركة الجهاز بنجاح</string>
+<string name="share_device_fail_0">المستخدم الذي يتشارك معه غير موجود</string>
+<string name="share_device_fail_1">الجهاز الذي سيتم مشاركته غير موجود</string>
+<string name="share_device_fail_2">تم إرسال الدعوة وفي انتظار الموافقة.</string>
+<string name="share_device_fail_3">لا يمكن مشاركة الجهاز مع نفسك</string>
+<string name="share_device_fail_4">لا يمكن مشاركة الجهاز مع عضو في المنزل</string>
+<string name="share_device_fail_5">فشلت عملية مشاركة الجهاز</string>
+<string name="share_device_fail_6">لا يمكن مشاركة الجهاز</string>
+<string name="share_device_fail_7">تمت مشاركة الجهاز</string>
+<string name="share_device_2">مشاركة الجهاز</string>
+<string name="msg_type_17">%s يشارك جهاز %s معك</string>
+<string name="tv_share_user">المستخدمون المشارك معهم</string>
+<string name="share_delete_user_title">حذف المستخدمين</string>
+<string name="share_delete_user_content">هل أنت متأكد أنك تريد إزالة هذا المستخدم؟</string>
+<string name="share_delete_device_title">حذف المشاركة</string>
+<string name="share_delete_device_content">هل أنت متأكد أنك تريد إزالة هذا الجهاز المُشارك؟</string>
+<string name="has_reject">تم الرفض</string>
+<string name="has_expired">منتهي الصلاحية</string>
+<string name="has_cancelled">تم الإلغاء</string>
+<string name="share_member">%d أشخاص</string>
+<string name="share_device_room_name">مشاركة الجهاز</string>
+<string name="no_opt">غير قابل للتشغيل</string>
+<string name="share_device_no_opt">هذا جهاز مشترك ولا يمكن تشغيله.</string>
+<string name="share_device_fail_33">إصدار البوابة منخفض ولا يمكن مشاركة الجهاز.</string>
 </resources>
