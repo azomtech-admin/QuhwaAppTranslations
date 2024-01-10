@@ -1703,3 +1703,27 @@
 "Expired" = "Expired";
 "Cancelled" = "Cacelled";
 "%dPeople" = "%d people";
+//电池版
+"BatteryType" = "Battery version";
+//广告
+"Skip%ds" = "Skip %ds";
+//基础网关配网
+"ConnectBLE" = "Connect bluetooth";
+"gatewayBleConfigStep1" = "Press the pairing button for 5 second";
+"gatewayBleConfigStep2" = "When the gateway and app are in pairing state, the indicator will flash green rapidly. If the gateway is not paired in 5 minutes, it will exit pairing mode automatically until the pairing button is long pressed again";
+"BleUnauthorized" = "Bluetooth is unauthorized";
+"BlePoweredOff" = "Bluetooth is off";
+"BleDisconnect" = "Bluetooth is disconnected";
+"BleConnected" = "Bluetooth is connected";
+"BleOn" = "Bluetooth is on";
+"GatewayConfigWifi" = "Start to configure";
+"WifiConnected" = "Wi-Fi is connected";
+"WifiDisConnect" = "Wi-Fi is disconnected, please connect Wi-Fi";
+"WifiNameNotNull" = "Wi-Fi name can't be null";
+"WifiPwdNotNull" = "Wi-Fi password can't be null";
+"ConfigingWifi" = "In configuring, please wait";
+"GatewayConfigWifiSuccess" = "Gateway is connected";
+"GatewayConfigWifiFail" = "Gateway failed to be connected, please try again";
+"GatewayConfigWifiResult" = "Gateway configuration result";
+"ConfirmBleConnectedTips" = "If bluetooth is connected, please click the button";
+"ConfirmWifiInfoTips" = "If Wi-Fi information is already filled in, please click the button";
