@@ -17,7 +17,7 @@
 "Pwd" = "كلمة المرور";
 "PleaseEnterAccount" = "رقم الحساب";
 "PleaseEnterPwd" = "كلمة المرور";
-"PleaseCheckMobileNetwork" = "الاتصال بالإنترنت غير متاح، يرجى التحقق من اتصال الإنترنت لديك.";
+"PleaseCheckMobileNetwork" = "الإتصال بالإنترنت غير متاح، يرجى التحقق من اتصال الإنترنت لديك.";
 "LoginFail" = "فشل تسجيل الدخول";
 "PwdError" = "خطأ في كلمة المرور";
 "HasBeenIntranet" = "تم بالفعل التبديل إلى الاختبار على الشبكة الداخلية";
@@ -329,7 +329,7 @@
 "OnlineVoiceLimit" = "حد الصوت عبر الإنترنت";
 "OnlineVoiceLimitTips" = "بعد التنشيط، يتحكم الصوت فقط في المشهد والجهاز ومجموعة التحكم في الإضاءة المرتبطة بهذا الجهاز.";
 ///虚拟设备更多
-"PleaseCheckNetwork" = "الاتصال بالإنترنت غير متاح، يرجى التحقق من اتصال الإنترنت لديك!";
+"PleaseCheckNetwork" = "الإتصال بالإنترنت غير متاح، يرجى التحقق من اتصال الإنترنت لديك!";
 "PleaseCheckGw" = "البوابة غير متصلة بالإنترنت، يرجى التحقق من البوابة!";
 "PleaseCheckDev" = "الجهاز غير متصل بالإنترنت، يرجى التحقق من الجهاز!";
 ///备日志
@@ -393,7 +393,7 @@
 "SomeoneRemoveAlarm" = "إنذار اكتشاف العبث";
 "Garrison" = "ذراع";
 "NotGarrison" = "نزع السلاح";
-"ConnectNormal" = "الاتصال جيد";
+"ConnectNormal" = "الإتصال جيد";
 "GasAlarm" = "إنذار اكتشاف الغاز";
 "ImmersionAlarm" = "إنذار الكشف عن المياه";
 "ImmersionRelease" = "تم إيقاف اكتشاف المياه";
@@ -571,7 +571,7 @@
 "PleaseSetRangeValue5-300" = "يرجى تحديد قيمة تتراوح من 5% إلى 300%";
 "ConfigureBoot" = "دليل التكوين";
 "SmartAirSwitchConfigureBoot1" = "1. بعد تشغيل الجهاز، انتظر حتى يومض مؤشر الناقل باللون الأزرق.";
-"SmartAirSwitchConfigureBoot2" = "2. اضغط لفترة طويلة على زر الضبط الخاص بوحدة الاتصال حتى يتغير ضوء المؤشر الموضح في الشكل أعلاه من الوميض السريع إلى الوميض البطيء، ثم استمر في الضغط عليه لمدة ثانية أو ثانيتين. في هذا الوقت، ستختفي المساحة يدخل المفتاح إلى الوضع الهندسي، ثم اضغط لفترة قصيرة على زر الضبط 3 مرات متواصلة، ويدخل مفتاح الهواء في وضع إعداد العنوان، وفي هذا الوقت تضيء جميع الأضواء الرئيسية لمفتاح الهواء.";
+"SmartAirSwitchConfigureBoot2" = "2. اضغط لفترة طويلة على زر الضبط الخاص بوحدة الإتصال حتى يتغير ضوء المؤشر الموضح في الشكل أعلاه من الوميض السريع إلى الوميض البطيء، ثم استمر في الضغط عليه لمدة ثانية أو ثانيتين. في هذا الوقت، ستختفي المساحة يدخل المفتاح إلى الوضع الهندسي، ثم اضغط لفترة قصيرة على زر الضبط 3 مرات متواصلة، ويدخل مفتاح الهواء في وضع إعداد العنوان، وفي هذا الوقت تضيء جميع الأضواء الرئيسية لمفتاح الهواء.";
 "SmartAirSwitchConfigureBoot3" = "3. اضغط على مفتاح الهواء من اليسار إلى اليمين لتعيين العنوان، اضغط مرة واحدة لكل مفتاح، وانتظر حتى تنطفئ جميع مؤشرات مفتاح الهواء (كما هو موضح أعلاه)، ثم اضغط على مفتاح الهواء التالي.";
 "SmartAirSwitchConfigureBoot4" = "4. بعد الضغط على مفتاح الهواء الأخير، اضغط على الزر \"تعيين\" مرتين بشكل متواصل للخروج من وضع إعداد العنوان. انتظر حتى تتم إعادة تشغيل الوحدة، وسيومض مؤشر الناقل بسرعة.";
 "SmartAirSwitchConfigureBoot5" = "5. بعد إكمال الإعدادات المذكورة أعلاه، قم بتشغيل وحدة zigbee لبدء البحث عن الشبكة والانضمام إليها. (D2 هو ضوء مؤشر شبكة ZigBee، الضوء مطفأ: غير متصل بالشبكة؛ وامض سريع: البحث للشبكة والانضمام إليها؛ الضوء مضاء دائمًا: متصل بالشبكة";
@@ -640,8 +640,8 @@
 "OpenSpecifiedBrightnessRGBState" = "ضبط السطوع/حالة RGB المحددة";
 ///可视对讲
 "NoBound" = "غير ملزم";
-"SetVideoIntercomScenes" = "قم بتعيين مشهد الاتصال الداخلي عبر الفيديو";
-"VideoIntercomDevControl" = "التحكم في أجهزة الاتصال الداخلي عبر الفيديو";
+"SetVideoIntercomScenes" = "قم بتعيين مشهد الإتصال الداخلي عبر الفيديو";
+"VideoIntercomDevControl" = "التحكم في أجهزة الإتصال الداخلي عبر الفيديو";
 "Show" = "عرض";
 "Hidden" = "إخفاء";
 /// الأمر الواقع
@@ -1105,7 +1105,7 @@
 "MobileHasBeenConnectedDevWifi:%@" = "تم توصيل الجوال بالجهاز WiFi:%@";
 "PleaseMobileConnectDevWifiBackThePage" = "بعد توصيل الجوال بشبكة Wi-Fi الخاصة بالجهاز، يرجى العودة إلى هذه الواجهة";
 "PwdErrorWaitSetPwd" = "خطأ في كلمة المرور، انتظر لتعيين كلمة المرور";
-"MatchNetworkfail:%@" = "فشل الاتصال بالإنترنت:%@";
+"MatchNetworkfail:%@" = "فشل الإتصال بالإنترنت:%@";
 "MobileUnConectDevHotspot" = "الجوال غير متصل بشبكة Wi-Fi للجهاز";
 "DevAlreadyHasBeenAdd" = "تمت إضافة الجهاز بالفعل";
 "SubGwHasBeenAdd" = "تمت إضافة البوابة الفرعية";
@@ -1345,7 +1345,7 @@
 "StarRecord" = "بدء التسجيل";
 "RecordSuccess" = "تم التسجيل بنجاح";
 "PwdVerificationFailed" = "فشل التحقق من كلمة المرور";
-"ConnectFail" = "فشل الاتصال";
+"ConnectFail" = "فشل الإتصال";
 "StandardDefinition" = "التعريف القياسي";
 "HighDefinition" = "عالي الوضوح";
 "CruiseStart" = "بدء الرحلة البحرية";
@@ -1375,7 +1375,7 @@
 "RestoreCamera" = "إعادة تشغيل الكاميرا";
 "DeleteAndRebootCamera" = "حذف الكاميرا وإعادة ضبطها";
 "CameraModel" = "طراز الكاميرا";
-"ConnectWifi" = "الاتصال بشبكة WiFi";
+"ConnectWifi" = "الإتصال بشبكة WiFi";
 "WifiSignalStrength" = "قوة إشارة WiFi";
 "IPAddress" = "عنوان IP";
 "EventRecord" = "سجل الحدث";
@@ -1596,7 +1596,7 @@
 "NetworkStatus" = "حالة الشبكة";
 "TimeSettings" = "إعدادات الوقت";
 "SecuritySettings" = "إعدادات الأمان";
-"ConnectNewWiFi" = "الاتصال بشبكة Wi-Fi جديدة";
+"ConnectNewWiFi" = "الإتصال بشبكة Wi-Fi جديدة";
 "TimeSynchronization" = "مزامنة الوقت";
 "TimeZoneSetting" = "إعدادات المنطقة الزمنية";
 "DaylightSavingTime" = "توقيت الصيف";
@@ -1705,26 +1705,26 @@
 "Cancelled" = "ملغي";
 "%dPeople" = "%d حساب";
 //电池版
-"BatteryType" = "Battery version";
+"BatteryType" = "إصدار البطارية";
 //广告
-"Skip%ds" = "Skip %ds";
+"Skip%ds" = "تخطّي %ds";
 //基础网关配网
-"ConnectBLE" = "Connect bluetooth";
-"gatewayBleConfigStep1" = "Press the pairing button for 5 second";
-"gatewayBleConfigStep2" = "When the gateway and app are in pairing state, the indicator will flash green rapidly. If the gateway is not paired in 5 minutes, it will exit pairing mode automatically until the pairing button is long pressed again";
-"BleUnauthorized" = "Bluetooth is unauthorized";
-"BlePoweredOff" = "Bluetooth is off";
-"BleDisconnect" = "Bluetooth is disconnected";
-"BleConnected" = "Bluetooth is connected";
-"BleOn" = "Bluetooth is on";
-"GatewayConfigWifi" = "Start to configure";
-"WifiConnected" = "Wi-Fi is connected";
-"WifiDisConnect" = "Wi-Fi is disconnected, please connect Wi-Fi";
-"WifiNameNotNull" = "Wi-Fi name can't be null";
-"WifiPwdNotNull" = "Wi-Fi password can't be null";
-"ConfigingWifi" = "In configuring, please wait";
-"GatewayConfigWifiSuccess" = "Gateway is connected";
-"GatewayConfigWifiFail" = "Gateway failed to be connected, please try again";
-"GatewayConfigWifiResult" = "Gateway configuration result";
-"ConfirmBleConnectedTips" = "If bluetooth is connected, please click the button";
-"ConfirmWifiInfoTips" = "If Wi-Fi information is already filled in, please click the button";
+"ConnectBLE" = "اتصال بلوتوث";
+"gatewayBleConfigStep1" = "اضغط على زر الإقتران لمدة 5 ثوانٍ";
+"gatewayBleConfigStep2" = "عندما يكون البوابة والتطبيق في وضع الإقتران، سيومض المؤشر بلون أخضر بسرعة. إذا لم تتم عملية الإقتران في 5 دقائق، ستخرج البوابة تلقائيًا من وضع الإقتران حتى يتم الضغط على زر الإقتران مرة أخرى بشكل طويل";
+"BleUnauthorized" = "البلوتوث غير مصرح به";
+"BlePoweredOff" = "البلوتوث متوقف";
+"BleDisconnect" = "البلوتوث مفصول";
+"BleConnected" = "البلوتوث متصل";
+"BleOn" = "البلوتوث قيد التشغيل";
+"GatewayConfigWifi" = "بدء التكوين";
+"WifiConnected" = "تم الإتصال بالواي فاي";
+"WifiDisConnect" = "الواي فاي مفصول، يرجى الإتصال بالواي فاي";
+"WifiNameNotNull" = "اسم الواي فاي مطلوب";
+"WifiPwdNotNull" = "كلمة مرور الواي فاي مطلوبة";
+"ConfigingWifi" = "جاري الإعداد، يرجى الانتظار";
+"GatewayConfigWifiSuccess" = "تم الإتصال بالبوابة";
+"GatewayConfigWifiFail" = "فشل الإتصال بالبوابة، يرجى المحاولة مرة أخرى";
+"GatewayConfigWifiResult" = "نتيجة تكوين البوابة";
+"ConfirmBleConnectedTips" = "إذا كان البلوتوث متصل، يرجى النقر على الزر";
+"ConfirmWifiInfoTips" = "إذا كانت معلومات الواي فاي معبأة بالفعل، يرجى النقر على الزر";

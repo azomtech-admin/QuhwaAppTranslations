@@ -1719,11 +1719,11 @@
 "GatewayConfigWifi" = "Start to configure";
 "WifiConnected" = "Wi-Fi is connected";
 "WifiDisConnect" = "Wi-Fi is disconnected, please connect Wi-Fi";
-"WifiNameNotNull" = "Wi-Fi name can't be null";
-"WifiPwdNotNull" = "Wi-Fi password can't be null";
-"ConfigingWifi" = "In configuring, please wait";
+"WifiNameNotNull" = "Wi-Fi name is required";
+"WifiPwdNotNull" = "Wi-Fi password is required";
+"ConfigingWifi" = "Configuring, please wait";
 "GatewayConfigWifiSuccess" = "Gateway is connected";
-"GatewayConfigWifiFail" = "Gateway failed to be connected, please try again";
+"GatewayConfigWifiFail" = "Gateway failed to connect, please try again";
 "GatewayConfigWifiResult" = "Gateway configuration result";
 "ConfirmBleConnectedTips" = "If bluetooth is connected, please click the button";
-"ConfirmWifiInfoTips" = "If Wi-Fi information is already filled in, please click the button";
+"ConfirmWifiInfoTips" = "If Wi-Fi info is already filled in, please click the button";
