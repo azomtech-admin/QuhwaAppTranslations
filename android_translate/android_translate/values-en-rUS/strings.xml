@@ -1563,4 +1563,24 @@
     <string name="no_opt">Inoperable</string>
     <string name="share_device_no_opt">This is a shared device and cannot be operated.</string>
     <string name="share_device_fail_33">The gateway version is low and the device cannot be shared.</string>
+
+     <string name="skip_time">%s %d</string>
+    <string name="camera_battery">Video</string>
+    <string name="camera_shake">PTZ camera</string>
+    <string name="more_function">More Function</string>
+    <string name="cruise">Navigate</string>
+    <string name="photo_album">Album</string>
+    <string name="alarm">Alarm</string>
+    <string name="temperature">temperature(℃)</string>
+    <string name="humidity">humidity(％)</string>
+    <string name="today">Today</string>
+    <string name="last_seven_days">Last Seven Days</string>
+    <string name="above_specified_temperature">Higher than specified temperature</string>
+    <string name="below_specified_temperature">Lower specified temperature</string>
+    <string name="above_specified_humidity">Higher than specified humidity</string>
+    <string name="below_specified_humidity">Lower than specified humidity</string>
+    <string name="above_temperature">The temperature is higher than %d℃</string>
+    <string name="below_temperature">The temperature is lower than %d℃</string>
+    <string name="above_humidity">Humidity is higher than %d%%</string>
+    <string name="below_humidity">Humidity lower than %d%%</string>
 </resources>
